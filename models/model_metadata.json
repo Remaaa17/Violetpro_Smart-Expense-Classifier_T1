@@ -1,12 +1,7 @@
 {
   "model_name": "Logistic Regression",
-  "test_metrics": {
-    "accuracy": 0.9752,
-    "precision": 0.9754045136128846,
-    "recall": 0.9752,
-    "f1_score": 0.9752195674003206
-  },
-  "best_parameters": {
+  "test_accuracy": 0.9752,
+  "parameters": {
     "clf__C": 10.0,
     "tfidf__max_features": 3000,
     "tfidf__ngram_range": [
@@ -26,5 +21,6 @@
     "Transportation",
     "Utilities & Services"
   ],
+  "training_samples": 70000,
   "random_state": 42
 }

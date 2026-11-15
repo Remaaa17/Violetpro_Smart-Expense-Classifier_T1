@@ -1,0 +1,28 @@
+============================================================
+ARABIC-ONLY DATASET QUALITY REPORT
+============================================================
+
+Overall Statistics:
+------------------------------------------------------------
+Total Records                 : 10000
+Unique Descriptions           : 3633
+Duplicate Rate (%)            : 63.7
+Missing Values                : 0
+Categories                    : 10
+Avg Description Length        : 16.35
+Min Description Length        : 6
+Max Description Length        : 37
+
+
+Category Distribution:
+------------------------------------------------------------
+Food & Dining                  : 1,882 ( 18.8%)
+Transportation                 : 1,548 ( 15.5%)
+Shopping & Retail              : 1,399 ( 14.0%)
+Utilities & Services           : 1,223 ( 12.2%)
+Entertainment & Recreation     : 1,105 ( 11.1%)
+Healthcare & Medical           :   879 (  8.8%)
+Financial Services             :   754 (  7.5%)
+Income                         :   467 (  4.7%)
+Charity & Donations            :   396 (  4.0%)
+Government & Legal             :   347 (  3.5%)

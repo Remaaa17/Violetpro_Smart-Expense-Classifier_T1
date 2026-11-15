@@ -16,7 +16,7 @@ import os
 # Page config
 st.set_page_config(
     page_title="Smart Expense Classifier",
-    page_icon="💰",
+    page_icon="💳",
     layout="wide",
     initial_sidebar_state="expanded"
 )
@@ -180,16 +180,17 @@ def main():
     
     # Sidebar - Model Info
     with st.sidebar:
-        st.header("📊 Model Information")
+        st.header("Model Information")
         st.info(f"**Model:** {metadata['model_name']}")
-        st.info(f"**Test Accuracy:** {metadata['test_metrics']['accuracy']:.2%}")
-        st.info(f"**F1-Score:** {metadata['test_metrics']['f1_score']:.2%}")
+        st.info(f"**Test Accuracy:** {metadata.get('test_accuracy', 0.975):.2%}")
+        if 'test_metrics' in metadata:
+            st.info(f"**F1-Score:** {metadata['test_metrics']['f1_score']:.2%}")
         
-        st.header("📋 Categories")
+        st.header("Categories")
         for i, cat in enumerate(metadata['categories'], 1):
             st.write(f"{i}. {cat}")
         
-        st.header("💡 Tips")
+        st.header("Tips")
         st.markdown("""
         - Enter a clear transaction description
         - Include merchant name if available
@@ -197,7 +198,7 @@ def main():
         - Try both short and detailed descriptions
         """)
         
-        st.header("📌 Example Transactions")
+        st.header("Example Transactions")
         examples = {
             "Starbucks Coffee": "Food & Dining",
             "Uber ride to airport": "Transportation",

@@ -1,0 +1,1501 @@
+transaction_id,date,description,amount,merchant,category
+TXN00338,2025-11-13,Trader Joe's Order,107.9,Trader Joe's,Food & Dining
+TXN00294,2025-11-13,Safeway Food Purchase,122.8,Safeway,Food & Dining
+TXN00730,2025-11-13,City Transit Parking,50.29,City Transit,Transportation
+TXN00456,2025-11-14,Walmart Purchase,24.44,Walmart,Shopping
+TXN01193,2025-11-14,HBO Max Entertainment,64.54,HBO Max,Entertainment
+TXN00467,2025-11-14,YouTube Premium Subscription,98.43,YouTube Premium,Entertainment
+TXN01141,2025-11-15,Safeway Dinner,50.08,Safeway,Food & Dining
+TXN00176,2025-11-15,BP Gas Purchase,38.9,BP,Transportation
+TXN00935,2025-11-15,Nordstrom Order,237.01,Nordstrom,Shopping
+TXN00590,2025-11-15,Lab Tests Prescription,186.69,Lab Tests,Healthcare
+TXN00858,2025-11-15,Car Wash Toll,76.57,Car Wash,Transportation
+TXN00768,2025-11-15,Gas Utility Subscription,179.56,Gas Utility,Utilities
+TXN01189,2025-11-15,Uber Parking,62.2,Uber,Transportation
+TXN01288,2025-11-16,Eye Doctor Medical Bill,124.2,Eye Doctor,Healthcare
+TXN00641,2025-11-16,BP Gas Purchase,45.18,BP,Transportation
+TXN00822,2025-11-17,ATM Fee,37.82,ATM,Others
+TXN00314,2025-11-17,Movie Theater Purchase,105.56,Movie Theater,Entertainment
+TXN00551,2025-11-17,Water Company Utility Payment,204.67,Water Company,Utilities
+TXN00435,2025-11-17,Ice Cream Shop Breakfast,135.34,Ice Cream Shop,Food & Dining
+TXN01184,2025-11-18,Mortgage Payment,1198.34,Housing Authority,Rent/Housing
+TXN00574,2025-11-18,Trader Joe's Dinner,45.22,Trader Joe's,Food & Dining
+TXN00859,2025-11-19,Charity Transaction,31.3,Charity,Others
+TXN00528,2025-11-19,Online Shop Store Purchase,150.05,Online Shop,Shopping
+TXN00302,2025-11-19,Shell Transit Pass,59.43,Shell,Transportation
+TXN00205,2025-11-19,Rent Payment HOA Fee,1242.74,Rent Payment,Rent/Housing
+TXN00508,2025-11-19,Medical Clinic Healthcare,56.26,Medical Clinic,Healthcare
+TXN01347,2025-11-20,Kroger Breakfast,13.03,Kroger,Food & Dining
+TXN00798,2025-11-20,Electric Bill Bill Payment,152.82,Electric Bill,Utilities
+TXN00117,2025-11-20,Health Insurance Healthcare,135.99,Health Insurance,Healthcare
+TXN00129,2025-11-20,KFC Breakfast,139.13,KFC,Food & Dining
+TXN00938,2025-11-20,Khan Academy Class Fee,387.61,Khan Academy,Education
+TXN00439,2025-11-20,Starbucks Meal,122.47,Starbucks,Food & Dining
+TXN00171,2025-11-20,Pet Store Transaction,94.91,Pet Store,Others
+TXN00102,2025-11-21,Charity Payment,40.93,Charity,Others
+TXN00670,2025-11-21,Sprint Subscription,92.87,Sprint,Utilities
+TXN00533,2025-11-22,CVS Pharmacy Healthcare,263.32,CVS Pharmacy,Healthcare
+TXN00445,2025-11-22,BP Parking,26.78,BP,Transportation
+TXN00381,2025-11-22,Housing Authority Home Maintenance,1310.17,Housing Authority,Rent/Housing
+TXN00348,2025-11-22,ATM Fee,48.86,ATM,Others
+TXN00418,2025-11-22,Mortgage Company Furniture,102.07,Mortgage Company,Rent/Housing
+TXN01088,2025-11-22,KFC Lunch,142.86,KFC,Food & Dining
+TXN00867,2025-11-22,School Payment Textbook,211.09,School Payment,Education
+TXN00898,2025-11-22,IKEA HOA Fee,982.47,IKEA,Rent/Housing
+TXN00579,2025-11-23,Comcast Utility Payment,83.55,Comcast,Utilities
+TXN00140,2025-11-23,Disney+ Purchase,22.94,Disney+,Entertainment
+TXN01146,2025-11-23,BP Transportation,70.36,BP,Transportation
+TXN01493,2025-11-23,Rent Payment,401.16,Lowe's Hardware,Rent/Housing
+TXN00663,2025-11-24,Donation Fee,67.58,Donation,Others
+TXN00810,2025-11-24,Adidas Store Purchase,44.25,Adidas,Shopping
+TXN00178,2025-11-24,ComEd Electric Bill Payment,141.23,ComEd Electric,Utilities
+TXN00613,2025-11-24,Target Store Purchase,31.3,Target,Shopping
+TXN00755,2025-11-24,Gift Shop Payment,11.52,Gift Shop,Others
+TXN00459,2025-11-25,Landlord Furniture,79.43,Landlord,Rent/Housing
+TXN01301,2025-11-25,Coursera Tuition Payment,482.5,Coursera,Education
+TXN00899,2025-11-26,Rent Payment Home Repair,1176.03,Rent Payment,Rent/Housing
+TXN00993,2025-11-26,eBay Online Purchase,290.89,eBay,Shopping
+TXN01306,2025-11-26,Bank Fee Payment,77.33,Bank Fee,Others
+TXN00497,2025-11-26,Rent Payment,783.07,Mortgage Company,Rent/Housing
+TXN00944,2025-11-26,LinkedIn Learning Educational Material,412.34,LinkedIn Learning,Education
+TXN01068,2025-11-27,Netflix Service,100.5,Netflix,Entertainment
+TXN01015,2025-11-28,YouTube Premium Membership,76.24,YouTube Premium,Entertainment
+TXN00816,2025-11-28,Donation Service,80.3,Donation,Others
+TXN01253,2025-11-28,Exxon Toll,25.99,Exxon,Transportation
+TXN01276,2025-11-29,Home Depot Home Maintenance,85.43,Home Depot,Rent/Housing
+TXN01377,2025-11-29,Home Depot Item,66.9,Home Depot,Shopping
+TXN00936,2025-11-29,Sports Stadium Purchase,42.97,Sports Stadium,Entertainment
+TXN00851,2025-11-29,Local Pharmacy Medicine,248.81,Local Pharmacy,Healthcare
+TXN01364,2025-11-30,Target Item,114.08,Target,Shopping
+TXN00576,2025-11-30,Donation Fee,59.56,Donation,Others
+TXN01245,2025-11-30,Burger King Food Purchase,71.94,Burger King,Food & Dining
+TXN00224,2025-11-30,Bank Fee Purchase,40.08,Bank Fee,Others
+TXN00284,2025-12-02,Textbook Store Course Fee,95.87,Textbook Store,Education
+TXN00775,2025-12-02,Mortgage Company Home Maintenance,1395.61,Mortgage Company,Rent/Housing
+TXN00578,2025-12-02,HBO Max Service,75.57,HBO Max,Entertainment
+TXN01214,2025-12-02,LinkedIn Learning Educational Material,96.43,LinkedIn Learning,Education
+TXN01237,2025-12-02,Online Course Training,453.28,Online Course,Education
+TXN00395,2025-12-03,Toll Road Transportation,76.16,Toll Road,Transportation
+TXN01291,2025-12-03,Concert Hall Membership,96.14,Concert Hall,Entertainment
+TXN01010,2025-12-03,Ice Cream Shop Lunch,11.94,Ice Cream Shop,Food & Dining
+TXN00084,2025-12-03,Textbook Store Class Fee,476.68,Textbook Store,Education
+TXN00920,2025-12-03,ComEd Electric Service,115.32,ComEd Electric,Utilities
+TXN00196,2025-12-04,Walmart Shopping,48.66,Walmart,Shopping
+TXN00194,2025-12-04,PlayStation Network Service,40.48,PlayStation Network,Entertainment
+TXN00753,2025-12-05,School Payment Training,318.01,School Payment,Education
+TXN00193,2025-12-06,Apple Store Online Purchase,58.01,Apple Store,Shopping
+TXN00735,2025-12-06,Game Store Membership,63.87,Game Store,Entertainment
+TXN01098,2025-12-06,Service Charge Transaction,82.92,Service Charge,Others
+TXN00846,2025-12-07,Water Company Monthly Bill,161.34,Water Company,Utilities
+TXN00788,2025-12-07,Gift Shop Payment,19.87,Gift Shop,Others
+TXN01385,2025-12-07,Chipotle Order,142.54,Chipotle,Food & Dining
+TXN00489,2025-12-08,Charity Transaction,71.13,Charity,Others
+TXN00190,2025-12-08,CVS Pharmacy Medical Bill,153.76,CVS Pharmacy,Healthcare
+TXN01487,2025-12-09,Health Insurance Medical Service,160.89,Health Insurance,Healthcare
+TXN00141,2025-12-09,Urgent Care Healthcare,260.93,Urgent Care,Healthcare
+TXN01005,2025-12-09,Panera Bread Lunch,15.05,Panera Bread,Food & Dining
+TXN00958,2025-12-10,Chevron Transportation,36.9,Chevron,Transportation
+TXN00597,2025-12-10,Apple Store Shopping,50.79,Apple Store,Shopping
+TXN00431,2025-12-10,Movie Theater Purchase,93.12,Movie Theater,Entertainment
+TXN00665,2025-12-10,Taco Bell Dinner,48.35,Taco Bell,Food & Dining
+TXN00362,2025-12-10,Coursera Educational Material,166.46,Coursera,Education
+TXN01426,2025-12-11,Zara Order,92.44,Zara,Shopping
+TXN01440,2025-12-11,Coffee Shop Groceries,67.36,Coffee Shop,Food & Dining
+TXN00013,2025-12-11,Exxon Parking,34.92,Exxon,Transportation
+TXN01220,2025-12-12,Apple Music Subscription,141.92,Apple Music,Entertainment
+TXN00437,2025-12-13,Gift Shop Transaction,26.77,Gift Shop,Others
+TXN00156,2025-12-13,Lab Tests Medicine,201.57,Lab Tests,Healthcare
+TXN00796,2025-12-13,Textbook Store Class Fee,484.73,Textbook Store,Education
+TXN01084,2025-12-13,T-Mobile Subscription,127.42,T-Mobile,Utilities
+TXN00509,2025-12-14,Sprint Monthly Bill,124.74,Sprint,Utilities
+TXN00674,2025-12-14,Urgent Care Medical Bill,19.99,Urgent Care,Healthcare
+TXN00300,2025-12-14,ATM Fee,40.08,ATM,Others
+TXN00319,2025-12-15,Taxi Service Parking,77.23,Taxi Service,Transportation
+TXN00130,2025-12-15,Nike Purchase,91.25,Nike,Shopping
+TXN00800,2025-12-16,University Tuition Course Fee,367.32,University Tuition,Education
+TXN00651,2025-12-16,Auto Service Fuel,56.62,Auto Service,Transportation
+TXN00952,2025-12-16,Amazon Prime Ticket,26.27,Amazon Prime,Entertainment
+TXN00739,2025-12-16,Water Bill Bill Payment,153.29,Water Bill,Utilities
+TXN00870,2025-12-16,Donation Fee,94.97,Donation,Others
+TXN00570,2025-12-17,HBO Max Subscription,125.15,HBO Max,Entertainment
+TXN00855,2025-12-17,Urgent Care Copay,107.61,Urgent Care,Healthcare
+TXN00856,2025-12-17,Property Management Home Repair,1257.92,Property Management,Rent/Housing
+TXN00112,2025-12-18,Hospital Medicine,164.04,Hospital,Healthcare
+TXN00014,2025-12-19,McDonald's Lunch,133.75,McDonald's,Food & Dining
+TXN00981,2025-12-19,Service Charge Payment,10.03,Service Charge,Others
+TXN00168,2025-12-20,Electric Bill Utility Payment,241.0,Electric Bill,Utilities
+TXN01206,2025-12-20,Service Charge Payment,77.04,Service Charge,Others
+TXN01175,2025-12-20,Internet Provider Subscription,134.32,Internet Provider,Utilities
+TXN01409,2025-12-20,KFC Lunch,148.33,KFC,Food & Dining
+TXN01431,2025-12-21,Toll Road Ride,60.8,Toll Road,Transportation
+TXN00356,2025-12-21,Red Lobster Food Purchase,112.17,Red Lobster,Food & Dining
+TXN00466,2025-12-21,CVS Pharmacy Prescription,31.44,CVS Pharmacy,Healthcare
+TXN00957,2025-12-22,HOA Payment Home Maintenance,670.04,HOA Payment,Rent/Housing
+TXN00182,2025-12-22,Zara Shopping,55.57,Zara,Shopping
+TXN00803,2025-12-22,Landlord HOA Fee,235.5,Landlord,Rent/Housing
+TXN00769,2025-12-22,IKEA HOA Fee,305.35,IKEA,Rent/Housing
+TXN01024,2025-12-22,Game Store Purchase,132.89,Game Store,Entertainment
+TXN00116,2025-12-23,Uber Ride,12.99,Uber,Transportation
+TXN01178,2025-12-23,Landlord Home Maintenance,1316.99,Landlord,Rent/Housing
+TXN00791,2025-12-23,Costco Online Purchase,274.75,Costco,Shopping
+TXN00184,2025-12-24,Parking Garage Gas Purchase,56.81,Parking Garage,Transportation
+TXN01234,2025-12-24,Amazon Prime Ticket,82.01,Amazon Prime,Entertainment
+TXN00865,2025-12-24,Apartment Complex HOA Fee,769.96,Apartment Complex,Rent/Housing
+TXN00916,2025-12-24,Donation Transaction,83.62,Donation,Others
+TXN00482,2025-12-24,Water Bill Subscription,193.22,Water Bill,Utilities
+TXN01028,2025-12-25,Dental Office Copay,243.15,Dental Office,Healthcare
+TXN00424,2025-12-25,Parking Garage Transit Pass,24.59,Parking Garage,Transportation
+TXN00373,2025-12-25,Cheesecake Factory Food Purchase,21.43,Cheesecake Factory,Food & Dining
+TXN00790,2025-12-25,Amazon Item,279.83,Amazon,Shopping
+TXN00099,2025-12-25,Phone Bill Subscription,105.47,Phone Bill,Utilities
+TXN01295,2025-12-25,Gas Utility Bill Payment,165.16,Gas Utility,Utilities
+TXN00741,2025-12-26,Landlord HOA Fee,571.46,Landlord,Rent/Housing
+TXN01244,2025-12-26,Game Store Membership,52.47,Game Store,Entertainment
+TXN01456,2025-12-26,Service Charge Purchase,28.9,Service Charge,Others
+TXN00720,2025-12-26,HBO Max Purchase,31.94,HBO Max,Entertainment
+TXN01215,2025-12-26,BP Fuel,57.58,BP,Transportation
+TXN00064,2025-12-26,Gas Utility Monthly Bill,195.22,Gas Utility,Utilities
+TXN01157,2025-12-27,Macy's Item,220.65,Macy's,Shopping
+TXN00037,2025-12-27,IKEA Order,64.49,IKEA,Shopping
+TXN00922,2025-12-27,Concert Hall Ticket,44.97,Concert Hall,Entertainment
+TXN01262,2025-12-27,Spotify Service,82.99,Spotify,Entertainment
+TXN01235,2025-12-28,Exxon Ride,41.43,Exxon,Transportation
+TXN00268,2025-12-28,Hulu Ticket,82.62,Hulu,Entertainment
+TXN00515,2025-12-28,Walmart Online Purchase,296.43,Walmart,Shopping
+TXN01185,2025-12-28,Urgent Care Medical Service,237.69,Urgent Care,Healthcare
+TXN00837,2025-12-28,HOA Payment Home Maintenance,703.78,HOA Payment,Rent/Housing
+TXN01021,2025-12-28,Xbox Live Entertainment,138.67,Xbox Live,Entertainment
+TXN00354,2025-12-28,Hospital Prescription,227.35,Hospital,Healthcare
+TXN01168,2025-12-28,Taxi Service Transit Pass,52.98,Taxi Service,Transportation
+TXN00427,2025-12-29,Online Shop Shopping,258.29,Online Shop,Shopping
+TXN01078,2025-12-29,Housing Authority Furniture,477.17,Housing Authority,Rent/Housing
+TXN01279,2025-12-29,Zara Online Purchase,172.55,Zara,Shopping
+TXN01199,2025-12-29,Ice Cream Shop Groceries,119.96,Ice Cream Shop,Food & Dining
+TXN00625,2025-12-29,Internet Bill Bill Payment,213.91,Internet Bill,Utilities
+TXN00554,2025-12-29,Taco Bell Dinner,119.11,Taco Bell,Food & Dining
+TXN01307,2025-12-30,eBay Store Purchase,213.64,eBay,Shopping
+TXN00845,2025-12-31,Xbox Live Ticket,149.98,Xbox Live,Entertainment
+TXN00974,2025-12-31,Cash Withdrawal Service,79.63,Cash Withdrawal,Others
+TXN00901,2025-12-31,HBO Max Membership,113.65,HBO Max,Entertainment
+TXN00119,2025-12-31,Apple Music Subscription,88.61,Apple Music,Entertainment
+TXN00724,2025-12-31,Khan Academy Educational Material,93.31,Khan Academy,Education
+TXN00015,2026-01-01,Nordstrom Purchase,282.56,Nordstrom,Shopping
+TXN01411,2026-01-01,Adidas Purchase,149.95,Adidas,Shopping
+TXN00929,2026-01-01,Car Wash Toll,19.38,Car Wash,Transportation
+TXN00002,2026-01-01,PlayStation Network Service,47.51,PlayStation Network,Entertainment
+TXN00019,2026-01-02,Dental Office Medical Bill,171.02,Dental Office,Healthcare
+TXN00713,2026-01-02,Lab Tests Healthcare,139.92,Lab Tests,Healthcare
+TXN01474,2026-01-02,Mortgage Payment,675.61,Furniture Store,Rent/Housing
+TXN01499,2026-01-02,Xbox Live Subscription,83.25,Xbox Live,Entertainment
+TXN00786,2026-01-02,Parking Garage Ride,59.22,Parking Garage,Transportation
+TXN00306,2026-01-02,Mortgage Payment,164.85,Mortgage Company,Rent/Housing
+TXN00552,2026-01-03,Lab Tests Medical Service,44.94,Lab Tests,Healthcare
+TXN01378,2026-01-03,Trader Joe's Meal,103.13,Trader Joe's,Food & Dining
+TXN01246,2026-01-03,Sports Stadium Membership,143.32,Sports Stadium,Entertainment
+TXN00474,2026-01-03,Spotify Ticket,43.19,Spotify,Entertainment
+TXN01320,2026-01-03,Medical Clinic Copay,178.07,Medical Clinic,Healthcare
+TXN00010,2026-01-04,Rite Aid Medical Bill,168.06,Rite Aid,Healthcare
+TXN00770,2026-01-04,Chipotle Meal,87.14,Chipotle,Food & Dining
+TXN00361,2026-01-04,AT&T Bill Payment,91.66,AT&T,Utilities
+TXN00864,2026-01-04,Walmart Order,35.83,Walmart,Shopping
+TXN00677,2026-01-04,Ice Cream Shop Food Purchase,139.35,Ice Cream Shop,Food & Dining
+TXN00550,2026-01-04,Mortgage Payment,1544.88,Mortgage Company,Rent/Housing
+TXN00023,2026-01-04,Verizon Monthly Bill,108.34,Verizon,Utilities
+TXN00748,2026-01-04,Apple Store Shopping,282.63,Apple Store,Shopping
+TXN00386,2026-01-05,Subway Food Purchase,107.19,Subway,Food & Dining
+TXN01352,2026-01-05,Landlord Home Maintenance,1054.24,Landlord,Rent/Housing
+TXN00732,2026-01-05,Walgreens Medical Service,26.68,Walgreens,Healthcare
+TXN01468,2026-01-06,School Payment Tuition Payment,80.82,School Payment,Education
+TXN00125,2026-01-06,Uber Fuel,62.45,Uber,Transportation
+TXN01494,2026-01-07,Internet Bill Monthly Bill,158.77,Internet Bill,Utilities
+TXN01092,2026-01-07,Amazon Shopping,139.18,Amazon,Shopping
+TXN00370,2026-01-07,Comcast Service,143.1,Comcast,Utilities
+TXN00612,2026-01-07,T-Mobile Utility Payment,247.74,T-Mobile,Utilities
+TXN00462,2026-01-07,Mortgage Payment,1882.26,Housing Authority,Rent/Housing
+TXN00811,2026-01-07,College Bookstore Class Fee,47.33,College Bookstore,Education
+TXN00586,2026-01-07,Subway Lunch,106.2,Subway,Food & Dining
+TXN00442,2026-01-08,Local Pharmacy Healthcare,237.89,Local Pharmacy,Healthcare
+TXN00375,2026-01-08,Bank Fee Transaction,85.28,Bank Fee,Others
+TXN01116,2026-01-08,Phone Bill Utility Payment,60.91,Phone Bill,Utilities
+TXN00324,2026-01-08,Udemy Training,136.48,Udemy,Education
+TXN00209,2026-01-08,Phone Bill Monthly Bill,96.77,Phone Bill,Utilities
+TXN01444,2026-01-08,Water Bill Monthly Bill,165.95,Water Bill,Utilities
+TXN01130,2026-01-09,IKEA Home Repair,1883.42,IKEA,Rent/Housing
+TXN00282,2026-01-09,Rent Payment,404.91,Home Depot,Rent/Housing
+TXN00722,2026-01-09,Auto Service Transit Pass,59.05,Auto Service,Transportation
+TXN01315,2026-01-09,Internet Provider Service,162.12,Internet Provider,Utilities
+TXN01170,2026-01-10,Rent Payment Home Repair,1746.5,Rent Payment,Rent/Housing
+TXN00122,2026-01-10,Walgreens Medical Service,257.89,Walgreens,Healthcare
+TXN00992,2026-01-10,Furniture Store Home Repair,1037.38,Furniture Store,Rent/Housing
+TXN00004,2026-01-11,Taco Bell Breakfast,134.42,Taco Bell,Food & Dining
+TXN01074,2026-01-11,Concert Hall Subscription,96.87,Concert Hall,Entertainment
+TXN00477,2026-01-11,Etsy Shopping,125.71,Etsy,Shopping
+TXN00771,2026-01-11,Pizza Hut Lunch,40.0,Pizza Hut,Food & Dining
+TXN00062,2026-01-11,Amazon Purchase,43.64,Amazon,Shopping
+TXN01289,2026-01-11,Bank Fee Purchase,79.79,Bank Fee,Others
+TXN01099,2026-01-11,Applebee's Lunch,112.76,Applebee's,Food & Dining
+TXN01388,2026-01-12,Water Bill Monthly Bill,242.79,Water Bill,Utilities
+TXN00246,2026-01-12,Hulu Subscription,47.92,Hulu,Entertainment
+TXN01470,2026-01-12,Pet Store Purchase,97.89,Pet Store,Others
+TXN00626,2026-01-13,Lab Tests Medicine,245.56,Lab Tests,Healthcare
+TXN01382,2026-01-13,University Tuition Tuition Payment,158.73,University Tuition,Education
+TXN00983,2026-01-13,IKEA HOA Fee,1501.29,IKEA,Rent/Housing
+TXN00878,2026-01-14,Cash Withdrawal Payment,53.21,Cash Withdrawal,Others
+TXN01238,2026-01-14,H&M Order,155.31,H&M,Shopping
+TXN00596,2026-01-14,CVS Pharmacy Medical Bill,161.81,CVS Pharmacy,Healthcare
+TXN00153,2026-01-15,Taxi Service Fuel,54.36,Taxi Service,Transportation
+TXN01034,2026-01-15,Lowe's Hardware HOA Fee,65.84,Lowe's Hardware,Rent/Housing
+TXN00413,2026-01-16,Mortgage Payment,1664.06,Housing Authority,Rent/Housing
+TXN00538,2026-01-16,Textbook Store Tuition Payment,477.65,Textbook Store,Education
+TXN00886,2026-01-16,Sports Stadium Entertainment,77.57,Sports Stadium,Entertainment
+TXN00241,2026-01-17,Verizon Service,176.22,Verizon,Utilities
+TXN00801,2026-01-18,Cash Withdrawal Service,32.26,Cash Withdrawal,Others
+TXN00047,2026-01-18,Comcast Subscription,220.95,Comcast,Utilities
+TXN01434,2026-01-18,Parking Garage Parking,32.52,Parking Garage,Transportation
+TXN00364,2026-01-18,Concert Hall Membership,20.02,Concert Hall,Entertainment
+TXN00611,2026-01-18,Sports Stadium Service,49.05,Sports Stadium,Entertainment
+TXN00094,2026-01-19,Lowe's Hardware HOA Fee,789.29,Lowe's Hardware,Rent/Housing
+TXN00276,2026-01-19,Khan Academy Class Fee,128.33,Khan Academy,Education
+TXN00504,2026-01-19,Walmart Grocery Coffee,59.17,Walmart Grocery,Food & Dining
+TXN00526,2026-01-19,Starbucks Dinner,23.09,Starbucks,Food & Dining
+TXN00894,2026-01-19,Amazon Shopping,86.69,Amazon,Shopping
+TXN00715,2026-01-19,Spotify Entertainment,54.46,Spotify,Entertainment
+TXN00470,2026-01-20,Water Bill Utility Payment,176.89,Water Bill,Utilities
+TXN00305,2026-01-20,Pet Store Service,38.12,Pet Store,Others
+TXN01022,2026-01-20,Uber Toll,26.66,Uber,Transportation
+TXN01369,2026-01-20,Property Management Home Repair,1576.41,Property Management,Rent/Housing
+TXN00642,2026-01-20,Internet Bill Monthly Bill,107.85,Internet Bill,Utilities
+TXN00501,2026-01-20,Disney+ Membership,39.99,Disney+,Entertainment
+TXN01421,2026-01-21,Rent Payment,510.27,Landlord,Rent/Housing
+TXN00032,2026-01-21,LinkedIn Learning Educational Material,85.32,LinkedIn Learning,Education
+TXN00951,2026-01-21,Home Depot Furniture,1507.86,Home Depot,Rent/Housing
+TXN01014,2026-01-21,Applebee's Breakfast,95.56,Applebee's,Food & Dining
+TXN00204,2026-01-21,Gas Utility Utility Payment,127.47,Gas Utility,Utilities
+TXN00088,2026-01-21,Pet Store Purchase,34.14,Pet Store,Others
+TXN00254,2026-01-21,Applebee's Meal,82.82,Applebee's,Food & Dining
+TXN00261,2026-01-22,Donation Payment,67.72,Donation,Others
+TXN00520,2026-01-22,Landlord Home Repair,1004.97,Landlord,Rent/Housing
+TXN00655,2026-01-22,Car Wash Transportation,52.01,Car Wash,Transportation
+TXN01202,2026-01-23,eBay Purchase,116.08,eBay,Shopping
+TXN00483,2026-01-23,Mortgage Company Home Repair,144.31,Mortgage Company,Rent/Housing
+TXN00331,2026-01-23,T-Mobile Service,164.49,T-Mobile,Utilities
+TXN00206,2026-01-23,Lyft Transit Pass,60.57,Lyft,Transportation
+TXN01488,2026-01-24,Medical Clinic Medical Bill,71.29,Medical Clinic,Healthcare
+TXN01027,2026-01-24,Subway Groceries,9.09,Subway,Food & Dining
+TXN00347,2026-01-24,Mortgage Payment,1447.62,Furniture Store,Rent/Housing
+TXN00523,2026-01-24,Gift Shop Service,10.74,Gift Shop,Others
+TXN00083,2026-01-24,Verizon Utility Payment,248.19,Verizon,Utilities
+TXN01138,2026-01-25,Donation Transaction,67.25,Donation,Others
+TXN00412,2026-01-25,Housing Authority HOA Fee,1644.71,Housing Authority,Rent/Housing
+TXN00785,2026-01-25,Home Depot HOA Fee,1892.95,Home Depot,Rent/Housing
+TXN00307,2026-01-25,Comcast Service,120.88,Comcast,Utilities
+TXN01410,2026-01-25,Apple Store Shopping,131.91,Apple Store,Shopping
+TXN01442,2026-01-26,Dental Office Healthcare,215.3,Dental Office,Healthcare
+TXN00345,2026-01-26,Service Charge Fee,93.13,Service Charge,Others
+TXN01089,2026-01-26,AT&T Monthly Bill,235.28,AT&T,Utilities
+TXN01004,2026-01-26,Verizon Utility Payment,220.91,Verizon,Utilities
+TXN01425,2026-01-27,Mortgage Payment,1999.2,IKEA,Rent/Housing
+TXN01135,2026-01-27,Coursera Tuition Payment,498.15,Coursera,Education
+TXN01131,2026-01-27,University Tuition Textbook,390.41,University Tuition,Education
+TXN00731,2026-01-27,Online Course Textbook,98.91,Online Course,Education
+TXN01396,2026-01-27,Online Course Educational Material,298.68,Online Course,Education
+TXN00240,2026-01-27,H&M Item,251.7,H&M,Shopping
+TXN01367,2026-01-28,ComEd Electric Subscription,211.36,ComEd Electric,Utilities
+TXN00244,2026-01-28,Udemy Training,148.62,Udemy,Education
+TXN00426,2026-01-28,Toll Road Fuel,39.39,Toll Road,Transportation
+TXN01152,2026-01-28,Gift Shop Purchase,61.63,Gift Shop,Others
+TXN00346,2026-01-28,Game Store Service,41.67,Game Store,Entertainment
+TXN01337,2026-01-29,BP Transportation,26.87,BP,Transportation
+TXN01374,2026-01-29,LinkedIn Learning Educational Material,286.2,LinkedIn Learning,Education
+TXN00779,2026-01-30,Home Depot Home Repair,1867.69,Home Depot,Rent/Housing
+TXN00175,2026-01-30,Chevron Gas Purchase,18.93,Chevron,Transportation
+TXN01179,2026-01-30,Apartment Complex Furniture,1367.92,Apartment Complex,Rent/Housing
+TXN00027,2026-01-30,Local Pharmacy Medical Bill,243.24,Local Pharmacy,Healthcare
+TXN00807,2026-01-30,Costco Order,53.34,Costco,Shopping
+TXN01095,2026-01-30,Rent Payment,644.61,Rent Payment,Rent/Housing
+TXN01350,2026-01-31,Phone Bill Service,116.0,Phone Bill,Utilities
+TXN01313,2026-01-31,Internet Provider Utility Payment,172.27,Internet Provider,Utilities
+TXN01498,2026-01-31,LinkedIn Learning Course Fee,357.44,LinkedIn Learning,Education
+TXN01144,2026-01-31,Water Company Utility Payment,169.11,Water Company,Utilities
+TXN00280,2026-01-31,Sprint Bill Payment,148.53,Sprint,Utilities
+TXN01398,2026-01-31,School Payment Textbook,392.16,School Payment,Education
+TXN00917,2026-01-31,Gift Shop Fee,95.41,Gift Shop,Others
+TXN01007,2026-01-31,Hulu Purchase,99.19,Hulu,Entertainment
+TXN01333,2026-02-01,Property Management Home Repair,113.55,Property Management,Rent/Housing
+TXN01473,2026-02-01,Trader Joe's Food Purchase,56.79,Trader Joe's,Food & Dining
+TXN00410,2026-02-01,H&M Order,298.45,H&M,Shopping
+TXN00366,2026-02-01,Exxon Gas Purchase,72.17,Exxon,Transportation
+TXN00409,2026-02-01,Walmart Item,279.34,Walmart,Shopping
+TXN00211,2026-02-01,Verizon Monthly Bill,129.18,Verizon,Utilities
+TXN00227,2026-02-02,CVS Pharmacy Healthcare,191.22,CVS Pharmacy,Healthcare
+TXN00478,2026-02-02,Disney+ Membership,26.05,Disney+,Entertainment
+TXN00522,2026-02-02,Water Bill Utility Payment,237.99,Water Bill,Utilities
+TXN00095,2026-02-02,Khan Academy Educational Material,298.22,Khan Academy,Education
+TXN01469,2026-02-02,Rent Payment,1749.91,Landlord,Rent/Housing
+TXN00967,2026-02-03,Target Purchase,142.01,Target,Shopping
+TXN00041,2026-02-03,Online Course Educational Material,102.6,Online Course,Education
+TXN00317,2026-02-03,Taxi Service Transit Pass,32.76,Taxi Service,Transportation
+TXN00821,2026-02-03,Bank Fee Transaction,35.21,Bank Fee,Others
+TXN01303,2026-02-03,Miscellaneous Service,78.59,Miscellaneous,Others
+TXN00077,2026-02-04,Bank Fee Purchase,12.58,Bank Fee,Others
+TXN00841,2026-02-04,Sprint Monthly Bill,85.47,Sprint,Utilities
+TXN01335,2026-02-04,Rite Aid Medical Bill,186.58,Rite Aid,Healthcare
+TXN00857,2026-02-04,Target Order,223.06,Target,Shopping
+TXN00943,2026-02-04,ATM Payment,24.35,ATM,Others
+TXN01495,2026-02-04,Water Company Service,229.62,Water Company,Utilities
+TXN01057,2026-02-05,Zara Item,63.82,Zara,Shopping
+TXN00759,2026-02-05,Pizza Hut Meal,36.56,Pizza Hut,Food & Dining
+TXN00638,2026-02-05,Charity Fee,84.02,Charity,Others
+TXN00245,2026-02-05,Sprint Monthly Bill,249.62,Sprint,Utilities
+TXN00728,2026-02-05,Toll Road Ride,45.96,Toll Road,Transportation
+TXN01448,2026-02-06,Apple Music Service,37.7,Apple Music,Entertainment
+TXN01070,2026-02-06,Exxon Gas Purchase,47.7,Exxon,Transportation
+TXN00330,2026-02-06,Rent Payment,1586.51,Home Depot,Rent/Housing
+TXN01252,2026-02-06,Chipotle Groceries,59.31,Chipotle,Food & Dining
+TXN00960,2026-02-07,Cash Withdrawal Fee,43.26,Cash Withdrawal,Others
+TXN01449,2026-02-07,Coffee Shop Lunch,77.6,Coffee Shop,Food & Dining
+TXN00075,2026-02-08,Kroger Meal,145.77,Kroger,Food & Dining
+TXN00861,2026-02-08,Textbook Store Training,426.79,Textbook Store,Education
+TXN01109,2026-02-08,ComEd Electric Service,100.82,ComEd Electric,Utilities
+TXN01466,2026-02-10,City Transit Parking,13.8,City Transit,Transportation
+TXN00964,2026-02-10,Adidas Online Purchase,65.15,Adidas,Shopping
+TXN00003,2026-02-10,Miscellaneous Transaction,99.03,Miscellaneous,Others
+TXN01363,2026-02-10,Bank Fee Payment,34.45,Bank Fee,Others
+TXN00609,2026-02-10,Sports Stadium Ticket,17.35,Sports Stadium,Entertainment
+TXN01372,2026-02-10,Concert Hall Subscription,14.61,Concert Hall,Entertainment
+TXN01334,2026-02-10,Internet Bill Service,115.1,Internet Bill,Utilities
+TXN01224,2026-02-10,Educational Platform Educational Material,91.92,Educational Platform,Education
+TXN01086,2026-02-11,Sprint Service,70.83,Sprint,Utilities
+TXN00374,2026-02-11,Shell Gas Purchase,41.09,Shell,Transportation
+TXN00627,2026-02-11,Trader Joe's Groceries,64.1,Trader Joe's,Food & Dining
+TXN01203,2026-02-11,Rite Aid Healthcare,224.33,Rite Aid,Healthcare
+TXN00236,2026-02-12,Parking Garage Transportation,77.55,Parking Garage,Transportation
+TXN00925,2026-02-12,ATM Fee,87.94,ATM,Others
+TXN01223,2026-02-12,Urgent Care Medical Service,68.86,Urgent Care,Healthcare
+TXN01275,2026-02-12,Housing Authority HOA Fee,304.9,Housing Authority,Rent/Housing
+TXN01439,2026-02-12,Apartment Complex Home Maintenance,815.74,Apartment Complex,Rent/Housing
+TXN01001,2026-02-12,Gift Shop Service,81.68,Gift Shop,Others
+TXN00879,2026-02-12,Lowe's Store Purchase,96.93,Lowe's,Shopping
+TXN01194,2026-02-12,Udemy Tuition Payment,390.49,Udemy,Education
+TXN00136,2026-02-13,Donation Payment,20.27,Donation,Others
+TXN00040,2026-02-13,Xbox Live Purchase,99.6,Xbox Live,Entertainment
+TXN00773,2026-02-13,Home Depot Home Maintenance,835.11,Home Depot,Rent/Housing
+TXN01403,2026-02-14,Internet Bill Monthly Bill,58.95,Internet Bill,Utilities
+TXN00624,2026-02-14,Housing Authority Home Repair,156.25,Housing Authority,Rent/Housing
+TXN01373,2026-02-14,Internet Bill Subscription,153.47,Internet Bill,Utilities
+TXN00033,2026-02-15,Trader Joe's Order,35.45,Trader Joe's,Food & Dining
+TXN01188,2026-02-15,Phone Bill Bill Payment,121.81,Phone Bill,Utilities
+TXN00301,2026-02-16,Exxon Ride,31.09,Exxon,Transportation
+TXN00066,2026-02-16,Apartment Complex Furniture,89.2,Apartment Complex,Rent/Housing
+TXN00587,2026-02-16,Lyft Ride,68.18,Lyft,Transportation
+TXN01056,2026-02-16,Miscellaneous Service,23.85,Miscellaneous,Others
+TXN01008,2026-02-16,Coursera Educational Material,100.91,Coursera,Education
+TXN01000,2026-02-16,Shell Transportation,44.6,Shell,Transportation
+TXN00016,2026-02-17,Lab Tests Healthcare,279.44,Lab Tests,Healthcare
+TXN01294,2026-02-17,Xbox Live Purchase,116.58,Xbox Live,Entertainment
+TXN00329,2026-02-17,Health Insurance Medical Bill,22.69,Health Insurance,Healthcare
+TXN01119,2026-02-18,Sports Stadium Subscription,51.93,Sports Stadium,Entertainment
+TXN00438,2026-02-18,Rent Payment,1598.44,Mortgage Company,Rent/Housing
+TXN00100,2026-02-18,Textbook Store Textbook,282.72,Textbook Store,Education
+TXN00360,2026-02-18,Hospital Prescription,253.94,Hospital,Healthcare
+TXN00492,2026-02-19,Shell Gas Purchase,70.55,Shell,Transportation
+TXN00599,2026-02-19,Lyft Toll,73.47,Lyft,Transportation
+TXN00545,2026-02-19,McDonald's Meal,134.29,McDonald's,Food & Dining
+TXN01463,2026-02-20,Urgent Care Medical Bill,168.16,Urgent Care,Healthcare
+TXN01384,2026-02-20,University Tuition Educational Material,107.56,University Tuition,Education
+TXN00406,2026-02-20,HBO Max Entertainment,117.9,HBO Max,Entertainment
+TXN00389,2026-02-20,LinkedIn Learning Class Fee,495.47,LinkedIn Learning,Education
+TXN00583,2026-02-21,LinkedIn Learning Course Fee,429.8,LinkedIn Learning,Education
+TXN01477,2026-02-21,Online Course Tuition Payment,380.22,Online Course,Education
+TXN01171,2026-02-21,Walgreens Copay,134.15,Walgreens,Healthcare
+TXN00450,2026-02-21,Dental Office Healthcare,163.96,Dental Office,Healthcare
+TXN01030,2026-02-21,Lowe's Store Purchase,271.66,Lowe's,Shopping
+TXN01101,2026-02-22,Khan Academy Class Fee,287.0,Khan Academy,Education
+TXN00493,2026-02-22,Toll Road Toll,28.4,Toll Road,Transportation
+TXN00977,2026-02-23,Local Pharmacy Medical Bill,40.72,Local Pharmacy,Healthcare
+TXN00468,2026-02-23,Metro Card Fuel,54.99,Metro Card,Transportation
+TXN00762,2026-02-24,Toll Road Fuel,70.92,Toll Road,Transportation
+TXN00705,2026-02-24,Cheesecake Factory Order,148.1,Cheesecake Factory,Food & Dining
+TXN00750,2026-02-25,Rent Payment,128.95,Property Management,Rent/Housing
+TXN00401,2026-02-25,IKEA Home Repair,1813.7,IKEA,Rent/Housing
+TXN00718,2026-02-26,Khan Academy Class Fee,184.74,Khan Academy,Education
+TXN00662,2026-02-26,Bank Fee Transaction,43.62,Bank Fee,Others
+TXN00833,2026-02-26,HBO Max Service,24.28,HBO Max,Entertainment
+TXN01103,2026-02-26,Game Store Purchase,78.25,Game Store,Entertainment
+TXN00883,2026-02-26,Rent Payment HOA Fee,1863.86,Rent Payment,Rent/Housing
+TXN01134,2026-02-26,Walmart Grocery Breakfast,50.78,Walmart Grocery,Food & Dining
+TXN00547,2026-02-26,School Payment Class Fee,104.23,School Payment,Education
+TXN00086,2026-02-27,Sprint Monthly Bill,206.92,Sprint,Utilities
+TXN00247,2026-02-27,College Bookstore Educational Material,207.65,College Bookstore,Education
+TXN00959,2026-02-27,Water Company Bill Payment,148.6,Water Company,Utilities
+TXN00752,2026-02-27,Target Purchase,133.44,Target,Shopping
+TXN00440,2026-02-27,Lowe's Online Purchase,76.45,Lowe's,Shopping
+TXN01260,2026-02-27,Donation Fee,92.4,Donation,Others
+TXN01239,2026-02-27,Rite Aid Prescription,292.85,Rite Aid,Healthcare
+TXN01136,2026-02-28,Rite Aid Copay,219.36,Rite Aid,Healthcare
+TXN00539,2026-02-28,Olive Garden Food Purchase,78.67,Olive Garden,Food & Dining
+TXN00316,2026-02-28,Water Company Utility Payment,156.31,Water Company,Utilities
+TXN01049,2026-03-01,Amazon Shopping,135.84,Amazon,Shopping
+TXN01414,2026-03-01,Coursera Class Fee,498.44,Coursera,Education
+TXN01164,2026-03-01,Water Bill Bill Payment,248.39,Water Bill,Utilities
+TXN01031,2026-03-01,Verizon Service,211.34,Verizon,Utilities
+TXN00408,2026-03-02,Ice Cream Shop Lunch,79.41,Ice Cream Shop,Food & Dining
+TXN00818,2026-03-02,Sprint Utility Payment,160.52,Sprint,Utilities
+TXN00006,2026-03-02,Zara Order,116.52,Zara,Shopping
+TXN01105,2026-03-02,Apartment Complex HOA Fee,1827.39,Apartment Complex,Rent/Housing
+TXN00825,2026-03-03,Udemy Training,378.77,Udemy,Education
+TXN01344,2026-03-03,Udemy Class Fee,212.35,Udemy,Education
+TXN00350,2026-03-03,Charity Fee,20.1,Charity,Others
+TXN01392,2026-03-03,Educational Platform Class Fee,393.31,Educational Platform,Education
+TXN00806,2026-03-03,Pet Store Purchase,25.14,Pet Store,Others
+TXN00415,2026-03-03,Lyft Ride,47.88,Lyft,Transportation
+TXN00189,2026-03-03,Best Buy Item,227.01,Best Buy,Shopping
+TXN00546,2026-03-03,Gas Station Ride,75.64,Gas Station,Transportation
+TXN00248,2026-03-04,HBO Max Membership,97.76,HBO Max,Entertainment
+TXN00173,2026-03-04,Educational Platform Educational Material,246.03,Educational Platform,Education
+TXN00416,2026-03-04,Rent Payment,1147.25,Apartment Complex,Rent/Housing
+TXN00218,2026-03-04,Gas Utility Bill Payment,121.71,Gas Utility,Utilities
+TXN00900,2026-03-04,Housing Authority Home Maintenance,1416.04,Housing Authority,Rent/Housing
+TXN01271,2026-03-05,Apple Store Online Purchase,128.3,Apple Store,Shopping
+TXN01317,2026-03-05,Red Lobster Groceries,9.16,Red Lobster,Food & Dining
+TXN01322,2026-03-05,Etsy Order,24.66,Etsy,Shopping
+TXN00056,2026-03-05,Game Store Ticket,33.5,Game Store,Entertainment
+TXN00745,2026-03-05,Phone Bill Service,209.88,Phone Bill,Utilities
+TXN00397,2026-03-05,Concert Hall Entertainment,114.56,Concert Hall,Entertainment
+TXN00106,2026-03-05,AT&T Subscription,240.38,AT&T,Utilities
+TXN00529,2026-03-05,Internet Provider Service,124.12,Internet Provider,Utilities
+TXN00982,2026-03-05,Water Bill Utility Payment,63.72,Water Bill,Utilities
+TXN01151,2026-03-06,Gas Station Transit Pass,31.5,Gas Station,Transportation
+TXN00740,2026-03-06,Verizon Subscription,80.5,Verizon,Utilities
+TXN00887,2026-03-06,Walgreens Medical Service,64.41,Walgreens,Healthcare
+TXN00988,2026-03-07,Spotify Subscription,121.98,Spotify,Entertainment
+TXN01167,2026-03-07,Apartment Complex HOA Fee,185.68,Apartment Complex,Rent/Housing
+TXN00309,2026-03-07,Pet Store Transaction,72.82,Pet Store,Others
+TXN01222,2026-03-08,Etsy Online Purchase,264.79,Etsy,Shopping
+TXN00091,2026-03-08,Kroger Breakfast,34.38,Kroger,Food & Dining
+TXN00680,2026-03-09,Online Course Class Fee,202.04,Online Course,Education
+TXN00881,2026-03-09,School Payment Course Fee,54.11,School Payment,Education
+TXN00048,2026-03-09,Internet Provider Bill Payment,53.16,Internet Provider,Utilities
+TXN00689,2026-03-09,Miscellaneous Transaction,91.71,Miscellaneous,Others
+TXN00131,2026-03-09,Chevron Fuel,60.59,Chevron,Transportation
+TXN01053,2026-03-09,HOA Payment Home Maintenance,947.03,HOA Payment,Rent/Housing
+TXN00169,2026-03-10,Gas Utility Bill Payment,173.45,Gas Utility,Utilities
+TXN00242,2026-03-10,Rent Payment,417.12,HOA Payment,Rent/Housing
+TXN00433,2026-03-10,Etsy Purchase,54.52,Etsy,Shopping
+TXN00962,2026-03-11,Lowe's Online Purchase,170.39,Lowe's,Shopping
+TXN00997,2026-03-11,Toll Road Gas Purchase,79.68,Toll Road,Transportation
+TXN00969,2026-03-11,Rite Aid Medical Service,282.12,Rite Aid,Healthcare
+TXN00661,2026-03-11,Apartment Complex HOA Fee,1811.92,Apartment Complex,Rent/Housing
+TXN01181,2026-03-12,Trader Joe's Lunch,117.89,Trader Joe's,Food & Dining
+TXN01155,2026-03-12,Mortgage Payment,634.43,Furniture Store,Rent/Housing
+TXN00918,2026-03-12,Verizon Service,117.86,Verizon,Utilities
+TXN00165,2026-03-12,Kroger Order,26.53,Kroger,Food & Dining
+TXN00744,2026-03-12,Sports Stadium Membership,90.29,Sports Stadium,Entertainment
+TXN01080,2026-03-12,Udemy Training,393.21,Udemy,Education
+TXN01075,2026-03-12,Pet Store Service,69.41,Pet Store,Others
+TXN00051,2026-03-12,YouTube Premium Service,61.71,YouTube Premium,Entertainment
+TXN00563,2026-03-14,Charity Purchase,17.24,Charity,Others
+TXN00230,2026-03-14,Donation Transaction,65.59,Donation,Others
+TXN00179,2026-03-14,Chipotle Coffee,81.69,Chipotle,Food & Dining
+TXN00151,2026-03-14,Online Course Course Fee,244.99,Online Course,Education
+TXN00738,2026-03-14,Exxon Parking,14.06,Exxon,Transportation
+TXN01492,2026-03-14,LinkedIn Learning Training,80.6,LinkedIn Learning,Education
+TXN00400,2026-03-14,Dental Office Prescription,145.27,Dental Office,Healthcare
+TXN01229,2026-03-15,Netflix Entertainment,21.67,Netflix,Entertainment
+TXN00262,2026-03-15,Housing Authority Home Repair,523.37,Housing Authority,Rent/Housing
+TXN01269,2026-03-15,Applebee's Groceries,53.04,Applebee's,Food & Dining
+TXN01274,2026-03-16,Apple Store Shopping,132.3,Apple Store,Shopping
+TXN00582,2026-03-16,Educational Platform Class Fee,118.08,Educational Platform,Education
+TXN01304,2026-03-16,Chevron Transit Pass,36.07,Chevron,Transportation
+TXN00076,2026-03-16,Apple Music Subscription,108.85,Apple Music,Entertainment
+TXN01187,2026-03-16,Gas Station Fuel,13.34,Gas Station,Transportation
+TXN00697,2026-03-17,Sprint Utility Payment,74.7,Sprint,Utilities
+TXN01489,2026-03-17,LinkedIn Learning Training,398.61,LinkedIn Learning,Education
+TXN00963,2026-03-17,Apple Store Item,34.28,Apple Store,Shopping
+TXN01255,2026-03-17,Urgent Care Copay,41.34,Urgent Care,Healthcare
+TXN00763,2026-03-18,Water Company Bill Payment,192.61,Water Company,Utilities
+TXN01326,2026-03-18,Home Depot Home Maintenance,981.59,Home Depot,Rent/Housing
+TXN00185,2026-03-19,LinkedIn Learning Educational Material,219.06,LinkedIn Learning,Education
+TXN00536,2026-03-19,Rite Aid Prescription,292.78,Rite Aid,Healthcare
+TXN00333,2026-03-19,Best Buy Shopping,273.28,Best Buy,Shopping
+TXN01464,2026-03-19,IKEA HOA Fee,1928.11,IKEA,Rent/Housing
+TXN01169,2026-03-19,eBay Item,157.32,eBay,Shopping
+TXN01159,2026-03-19,YouTube Premium Purchase,130.41,YouTube Premium,Entertainment
+TXN01079,2026-03-20,Home Depot Home Maintenance,329.17,Home Depot,Rent/Housing
+TXN00854,2026-03-20,ComEd Electric Bill Payment,223.91,ComEd Electric,Utilities
+TXN01284,2026-03-20,Educational Platform Educational Material,324.83,Educational Platform,Education
+TXN00756,2026-03-20,IKEA Shopping,248.34,IKEA,Shopping
+TXN01019,2026-03-20,Online Course Textbook,465.41,Online Course,Education
+TXN00659,2026-03-20,Bakery Coffee,131.97,Bakery,Food & Dining
+TXN00274,2026-03-21,Rite Aid Medicine,248.26,Rite Aid,Healthcare
+TXN00455,2026-03-21,Dental Office Medical Bill,100.29,Dental Office,Healthcare
+TXN00133,2026-03-21,Verizon Utility Payment,66.57,Verizon,Utilities
+TXN01003,2026-03-22,Mortgage Payment,223.53,IKEA,Rent/Housing
+TXN00402,2026-03-22,Hulu Subscription,114.8,Hulu,Entertainment
+TXN01044,2026-03-22,Rent Payment,748.94,Home Depot,Rent/Housing
+TXN00298,2026-03-22,Macy's Purchase,141.7,Macy's,Shopping
+TXN00571,2026-03-22,Electric Bill Monthly Bill,179.63,Electric Bill,Utilities
+TXN00863,2026-03-22,Whole Foods Dinner,80.85,Whole Foods,Food & Dining
+TXN00652,2026-03-22,Adidas Store Purchase,263.36,Adidas,Shopping
+TXN00252,2026-03-22,Concert Hall Service,68.38,Concert Hall,Entertainment
+TXN00946,2026-03-22,YouTube Premium Entertainment,87.98,YouTube Premium,Entertainment
+TXN01225,2026-03-23,Walgreens Healthcare,56.93,Walgreens,Healthcare
+TXN00919,2026-03-23,YouTube Premium Entertainment,57.98,YouTube Premium,Entertainment
+TXN01453,2026-03-23,Internet Provider Utility Payment,69.93,Internet Provider,Utilities
+TXN00862,2026-03-23,Cheesecake Factory Dinner,89.07,Cheesecake Factory,Food & Dining
+TXN00557,2026-03-23,Phone Bill Monthly Bill,211.29,Phone Bill,Utilities
+TXN00059,2026-03-25,Property Management Home Repair,539.78,Property Management,Rent/Housing
+TXN00897,2026-03-25,Exxon Gas Purchase,18.3,Exxon,Transportation
+TXN00071,2026-03-26,Whole Foods Food Purchase,40.18,Whole Foods,Food & Dining
+TXN01479,2026-03-26,Xbox Live Subscription,84.76,Xbox Live,Entertainment
+TXN00135,2026-03-26,Water Company Monthly Bill,59.6,Water Company,Utilities
+TXN00980,2026-03-27,Subway Lunch,11.97,Subway,Food & Dining
+TXN00393,2026-03-27,Water Bill Service,171.65,Water Bill,Utilities
+TXN00830,2026-03-27,Lowe's Item,287.23,Lowe's,Shopping
+TXN01038,2026-03-27,Apple Music Subscription,30.09,Apple Music,Entertainment
+TXN00288,2026-03-27,Panera Bread Breakfast,91.65,Panera Bread,Food & Dining
+TXN00525,2026-03-27,Panera Bread Lunch,38.77,Panera Bread,Food & Dining
+TXN01059,2026-03-27,Cash Withdrawal Transaction,92.72,Cash Withdrawal,Others
+TXN00222,2026-03-28,Costco Order,176.91,Costco,Shopping
+TXN00707,2026-03-28,Car Wash Parking,26.33,Car Wash,Transportation
+TXN00270,2026-03-28,Phone Bill Bill Payment,162.24,Phone Bill,Utilities
+TXN00005,2026-03-28,Lowe's Purchase,64.32,Lowe's,Shopping
+TXN00560,2026-03-28,Lyft Gas Purchase,32.37,Lyft,Transportation
+TXN00565,2026-03-28,Apple Store Shopping,89.88,Apple Store,Shopping
+TXN00562,2026-03-29,Water Bill Bill Payment,78.78,Water Bill,Utilities
+TXN00761,2026-03-30,ATM Transaction,38.23,ATM,Others
+TXN01242,2026-03-30,Etsy Item,175.84,Etsy,Shopping
+TXN00787,2026-03-31,Water Company Service,106.52,Water Company,Utilities
+TXN00645,2026-03-31,Verizon Bill Payment,163.86,Verizon,Utilities
+TXN01208,2026-03-31,Lyft Toll,35.8,Lyft,Transportation
+TXN00606,2026-03-31,Cash Withdrawal Service,78.52,Cash Withdrawal,Others
+TXN00939,2026-03-31,Khan Academy Course Fee,226.26,Khan Academy,Education
+TXN00154,2026-03-31,Olive Garden Dinner,54.47,Olive Garden,Food & Dining
+TXN00149,2026-04-01,Lowe's Hardware Home Repair,1898.61,Lowe's Hardware,Rent/Housing
+TXN01272,2026-04-01,Service Charge Service,53.51,Service Charge,Others
+TXN01371,2026-04-02,Cheesecake Factory Breakfast,22.72,Cheesecake Factory,Food & Dining
+TXN01182,2026-04-02,Chevron Parking,57.15,Chevron,Transportation
+TXN00148,2026-04-02,Olive Garden Groceries,137.1,Olive Garden,Food & Dining
+TXN00221,2026-04-02,Mortgage Company Home Repair,1788.16,Mortgage Company,Rent/Housing
+TXN00311,2026-04-02,Lowe's Shopping,270.49,Lowe's,Shopping
+TXN00548,2026-04-02,Home Depot Furniture,811.99,Home Depot,Rent/Housing
+TXN01387,2026-04-03,Dental Office Healthcare,101.64,Dental Office,Healthcare
+TXN01036,2026-04-03,CVS Pharmacy Medical Service,184.2,CVS Pharmacy,Healthcare
+TXN00460,2026-04-03,YouTube Premium Purchase,92.28,YouTube Premium,Entertainment
+TXN01277,2026-04-04,Disney+ Subscription,44.4,Disney+,Entertainment
+TXN00007,2026-04-04,Coffee Shop Meal,14.03,Coffee Shop,Food & Dining
+TXN00181,2026-04-04,Online Course Training,237.05,Online Course,Education
+TXN01113,2026-04-04,Verizon Subscription,235.99,Verizon,Utilities
+TXN00947,2026-04-05,T-Mobile Service,141.85,T-Mobile,Utilities
+TXN00828,2026-04-05,Cash Withdrawal Service,64.08,Cash Withdrawal,Others
+TXN01231,2026-04-05,Sports Stadium Membership,41.19,Sports Stadium,Entertainment
+TXN01314,2026-04-05,Best Buy Store Purchase,94.53,Best Buy,Shopping
+TXN00475,2026-04-05,Bank Fee Transaction,38.52,Bank Fee,Others
+TXN00365,2026-04-06,IKEA Order,127.73,IKEA,Shopping
+TXN00340,2026-04-06,Dominos Food Purchase,145.9,Dominos,Food & Dining
+TXN01446,2026-04-06,eBay Store Purchase,274.82,eBay,Shopping
+TXN00994,2026-04-06,Textbook Store Textbook,456.75,Textbook Store,Education
+TXN01478,2026-04-06,ATM Payment,42.05,ATM,Others
+TXN00296,2026-04-06,T-Mobile Subscription,54.57,T-Mobile,Utilities
+TXN00891,2026-04-07,College Bookstore Class Fee,292.04,College Bookstore,Education
+TXN01110,2026-04-07,Rite Aid Copay,43.59,Rite Aid,Healthcare
+TXN00747,2026-04-07,Coursera Textbook,195.18,Coursera,Education
+TXN01308,2026-04-07,Udemy Training,254.85,Udemy,Education
+TXN00273,2026-04-07,Furniture Store Home Maintenance,1334.61,Furniture Store,Rent/Housing
+TXN01147,2026-04-07,Pet Store Fee,30.05,Pet Store,Others
+TXN01212,2026-04-07,Hulu Ticket,21.95,Hulu,Entertainment
+TXN01076,2026-04-08,Mortgage Payment,1875.65,Landlord,Rent/Housing
+TXN00610,2026-04-08,Verizon Monthly Bill,102.73,Verizon,Utilities
+TXN00777,2026-04-08,Walgreens Prescription,80.31,Walgreens,Healthcare
+TXN00001,2026-04-08,Concert Hall Service,137.05,Concert Hall,Entertainment
+TXN00461,2026-04-08,HOA Payment Home Repair,391.72,HOA Payment,Rent/Housing
+TXN00239,2026-04-08,Shell Fuel,25.07,Shell,Transportation
+TXN00463,2026-04-08,ATM Transaction,25.97,ATM,Others
+TXN01485,2026-04-09,AT&T Subscription,249.35,AT&T,Utilities
+TXN01457,2026-04-09,KFC Breakfast,128.21,KFC,Food & Dining
+TXN00699,2026-04-09,Mortgage Company HOA Fee,791.39,Mortgage Company,Rent/Housing
+TXN00399,2026-04-09,Uber Gas Purchase,72.98,Uber,Transportation
+TXN01060,2026-04-10,Rent Payment Home Maintenance,423.08,Rent Payment,Rent/Housing
+TXN01209,2026-04-10,Chipotle Coffee,135.65,Chipotle,Food & Dining
+TXN00686,2026-04-10,Khan Academy Training,172.08,Khan Academy,Education
+TXN01394,2026-04-10,Ice Cream Shop Breakfast,65.16,Ice Cream Shop,Food & Dining
+TXN01406,2026-04-10,Local Pharmacy Copay,126.69,Local Pharmacy,Healthcare
+TXN01133,2026-04-10,BP Transportation,37.8,BP,Transportation
+TXN00321,2026-04-11,Target Item,97.81,Target,Shopping
+TXN01087,2026-04-11,Pet Store Payment,52.46,Pet Store,Others
+TXN00561,2026-04-11,School Payment Textbook,49.29,School Payment,Education
+TXN00809,2026-04-11,PlayStation Network Ticket,66.64,PlayStation Network,Entertainment
+TXN00636,2026-04-11,Textbook Store Course Fee,170.06,Textbook Store,Education
+TXN00070,2026-04-11,Zara Online Purchase,284.97,Zara,Shopping
+TXN00500,2026-04-11,Service Charge Service,48.27,Service Charge,Others
+TXN01221,2026-04-12,School Payment Training,98.78,School Payment,Education
+TXN00352,2026-04-12,Panera Bread Dinner,33.28,Panera Bread,Food & Dining
+TXN01365,2026-04-12,Coffee Shop Coffee,120.35,Coffee Shop,Food & Dining
+TXN00840,2026-04-12,Khan Academy Training,264.81,Khan Academy,Education
+TXN00989,2026-04-12,Walmart Item,135.01,Walmart,Shopping
+TXN00632,2026-04-12,Movie Theater Entertainment,72.16,Movie Theater,Entertainment
+TXN00681,2026-04-12,Car Wash Gas Purchase,34.27,Car Wash,Transportation
+TXN00581,2026-04-13,Parking Garage Fuel,53.97,Parking Garage,Transportation
+TXN01390,2026-04-13,Netflix Subscription,136.7,Netflix,Entertainment
+TXN00192,2026-04-14,Gift Shop Fee,84.76,Gift Shop,Others
+TXN00104,2026-04-14,Housing Authority Furniture,1511.83,Housing Authority,Rent/Housing
+TXN00391,2026-04-14,McDonald's Food Purchase,58.36,McDonald's,Food & Dining
+TXN00087,2026-04-14,PlayStation Network Membership,137.28,PlayStation Network,Entertainment
+TXN00634,2026-04-14,T-Mobile Service,64.59,T-Mobile,Utilities
+TXN00491,2026-04-14,Medical Clinic Copay,229.31,Medical Clinic,Healthcare
+TXN00968,2026-04-15,Mortgage Payment,1365.89,Furniture Store,Rent/Housing
+TXN00376,2026-04-15,Pet Store Payment,86.03,Pet Store,Others
+TXN01443,2026-04-15,Mortgage Payment,1102.12,Home Depot,Rent/Housing
+TXN01107,2026-04-16,ATM Service,87.0,ATM,Others
+TXN01357,2026-04-16,Medical Clinic Medical Bill,286.58,Medical Clinic,Healthcare
+TXN00874,2026-04-16,Textbook Store Training,352.69,Textbook Store,Education
+TXN00869,2026-04-16,IKEA Furniture,1492.99,IKEA,Rent/Housing
+TXN01039,2026-04-16,Donation Purchase,96.17,Donation,Others
+TXN01368,2026-04-17,Car Wash Parking,38.03,Car Wash,Transportation
+TXN00279,2026-04-17,ComEd Electric Service,179.4,ComEd Electric,Utilities
+TXN00422,2026-04-19,Internet Bill Subscription,114.65,Internet Bill,Utilities
+TXN00419,2026-04-19,Landlord HOA Fee,936.07,Landlord,Rent/Housing
+TXN01268,2026-04-19,Whole Foods Meal,104.17,Whole Foods,Food & Dining
+TXN00436,2026-04-20,Trader Joe's Order,140.04,Trader Joe's,Food & Dining
+TXN01327,2026-04-20,ATM Payment,27.0,ATM,Others
+TXN00619,2026-04-20,Lab Tests Medical Bill,44.28,Lab Tests,Healthcare
+TXN00046,2026-04-21,HOA Payment Furniture,1819.06,HOA Payment,Rent/Housing
+TXN01355,2026-04-22,Donation Service,54.05,Donation,Others
+TXN01045,2026-04-22,LinkedIn Learning Class Fee,474.29,LinkedIn Learning,Education
+TXN00281,2026-04-22,Udemy Training,378.84,Udemy,Education
+TXN01375,2026-04-23,KFC Groceries,17.78,KFC,Food & Dining
+TXN00784,2026-04-23,YouTube Premium Membership,117.38,YouTube Premium,Entertainment
+TXN00215,2026-04-23,Internet Bill Subscription,182.93,Internet Bill,Utilities
+TXN00623,2026-04-23,Metro Card Fuel,54.39,Metro Card,Transportation
+TXN00195,2026-04-24,Verizon Monthly Bill,183.2,Verizon,Utilities
+TXN01120,2026-04-24,Nike Item,173.25,Nike,Shopping
+TXN01094,2026-04-24,ATM Transaction,48.86,ATM,Others
+TXN01077,2026-04-24,LinkedIn Learning Educational Material,303.67,LinkedIn Learning,Education
+TXN01417,2026-04-24,Mortgage Payment,263.23,Housing Authority,Rent/Housing
+TXN00147,2026-04-25,CVS Pharmacy Medicine,129.73,CVS Pharmacy,Healthcare
+TXN01281,2026-04-25,Panera Bread Order,106.76,Panera Bread,Food & Dining
+TXN00052,2026-04-25,Nordstrom Online Purchase,213.84,Nordstrom,Shopping
+TXN01407,2026-04-25,ComEd Electric Bill Payment,168.29,ComEd Electric,Utilities
+TXN00615,2026-04-25,Urgent Care Medical Bill,91.21,Urgent Care,Healthcare
+TXN00208,2026-04-26,Walmart Grocery Coffee,13.5,Walmart Grocery,Food & Dining
+TXN00832,2026-04-26,Health Insurance Healthcare,174.36,Health Insurance,Healthcare
+TXN00664,2026-04-26,Online Shop Order,251.45,Online Shop,Shopping
+TXN00780,2026-04-26,Gift Shop Purchase,22.92,Gift Shop,Others
+TXN01200,2026-04-26,Chevron Fuel,61.3,Chevron,Transportation
+TXN01129,2026-04-26,Ice Cream Shop Dinner,58.15,Ice Cream Shop,Food & Dining
+TXN01265,2026-04-27,Electric Bill Subscription,57.35,Electric Bill,Utilities
+TXN01230,2026-04-27,Adidas Shopping,135.66,Adidas,Shopping
+TXN00214,2026-04-27,Lab Tests Healthcare,289.11,Lab Tests,Healthcare
+TXN00265,2026-04-28,Rent Payment,1213.35,Home Depot,Rent/Housing
+TXN00591,2026-04-28,Medical Clinic Healthcare,56.6,Medical Clinic,Healthcare
+TXN00605,2026-04-28,eBay Item,24.12,eBay,Shopping
+TXN01241,2026-04-28,Pizza Hut Order,133.56,Pizza Hut,Food & Dining
+TXN00385,2026-04-29,YouTube Premium Purchase,56.01,YouTube Premium,Entertainment
+TXN01090,2026-04-29,Khan Academy Textbook,70.78,Khan Academy,Education
+TXN00295,2026-04-30,CVS Pharmacy Prescription,145.4,CVS Pharmacy,Healthcare
+TXN00575,2026-04-30,Pizza Hut Order,125.19,Pizza Hut,Food & Dining
+TXN00839,2026-04-30,Starbucks Groceries,91.92,Starbucks,Food & Dining
+TXN00073,2026-04-30,Hulu Subscription,16.13,Hulu,Entertainment
+TXN00767,2026-05-01,Educational Platform Training,83.48,Educational Platform,Education
+TXN00277,2026-05-01,Nordstrom Purchase,43.5,Nordstrom,Shopping
+TXN00326,2026-05-01,Whole Foods Dinner,62.88,Whole Foods,Food & Dining
+TXN00987,2026-05-01,Khan Academy Class Fee,485.74,Khan Academy,Education
+TXN00231,2026-05-01,Health Insurance Prescription,131.52,Health Insurance,Healthcare
+TXN00323,2026-05-02,Rent Payment,1815.22,Furniture Store,Rent/Housing
+TXN00318,2026-05-02,Rent Payment,130.86,Rent Payment,Rent/Housing
+TXN01064,2026-05-03,Charity Service,55.97,Charity,Others
+TXN00289,2026-05-03,PlayStation Network Membership,140.68,PlayStation Network,Entertainment
+TXN00827,2026-05-03,Local Restaurant Order,71.13,Local Restaurant,Food & Dining
+TXN01484,2026-05-03,Zara Order,247.71,Zara,Shopping
+TXN00877,2026-05-03,Miscellaneous Service,11.02,Miscellaneous,Others
+TXN00669,2026-05-03,Charity Transaction,66.95,Charity,Others
+TXN01067,2026-05-03,Amazon Prime Subscription,35.37,Amazon Prime,Entertainment
+TXN00157,2026-05-03,Uber Transit Pass,41.73,Uber,Transportation
+TXN01325,2026-05-04,Netflix Subscription,89.14,Netflix,Entertainment
+TXN00793,2026-05-04,Medical Clinic Healthcare,262.31,Medical Clinic,Healthcare
+TXN00290,2026-05-04,Health Insurance Medical Bill,238.27,Health Insurance,Healthcare
+TXN00573,2026-05-04,Housing Authority Home Repair,1567.87,Housing Authority,Rent/Housing
+TXN00568,2026-05-05,Local Pharmacy Copay,207.57,Local Pharmacy,Healthcare
+TXN00799,2026-05-05,Taxi Service Ride,70.41,Taxi Service,Transportation
+TXN00628,2026-05-05,Etsy Purchase,273.47,Etsy,Shopping
+TXN00704,2026-05-05,Xbox Live Membership,112.85,Xbox Live,Entertainment
+TXN01353,2026-05-05,Charity Service,63.22,Charity,Others
+TXN01311,2026-05-06,ATM Service,84.81,ATM,Others
+TXN01435,2026-05-06,Charity Purchase,59.73,Charity,Others
+TXN00458,2026-05-06,Sports Stadium Ticket,34.21,Sports Stadium,Entertainment
+TXN00541,2026-05-06,Bank Fee Payment,72.13,Bank Fee,Others
+TXN00417,2026-05-06,CVS Pharmacy Medical Bill,232.39,CVS Pharmacy,Healthcare
+TXN00060,2026-05-06,Movie Theater Subscription,114.89,Movie Theater,Entertainment
+TXN01062,2026-05-06,Zara Order,260.64,Zara,Shopping
+TXN00708,2026-05-07,Walgreens Medical Bill,181.96,Walgreens,Healthcare
+TXN01012,2026-05-07,PlayStation Network Membership,74.56,PlayStation Network,Entertainment
+TXN00123,2026-05-07,Burger King Meal,17.04,Burger King,Food & Dining
+TXN00473,2026-05-08,Local Pharmacy Medicine,152.56,Local Pharmacy,Healthcare
+TXN00853,2026-05-08,Etsy Store Purchase,194.14,Etsy,Shopping
+TXN00850,2026-05-09,Nike Online Purchase,239.01,Nike,Shopping
+TXN01282,2026-05-09,City Transit Toll,73.66,City Transit,Transportation
+TXN01412,2026-05-09,Hospital Copay,87.85,Hospital,Healthcare
+TXN00358,2026-05-09,Phone Bill Bill Payment,142.7,Phone Bill,Utilities
+TXN00817,2026-05-09,Sprint Service,218.58,Sprint,Utilities
+TXN00873,2026-05-09,BP Fuel,62.14,BP,Transportation
+TXN01462,2026-05-09,Sprint Monthly Bill,222.48,Sprint,Utilities
+TXN00485,2026-05-10,Disney+ Subscription,59.97,Disney+,Entertainment
+TXN00792,2026-05-11,Shell Transit Pass,42.57,Shell,Transportation
+TXN01360,2026-05-11,IKEA Purchase,193.97,IKEA,Shopping
+TXN00823,2026-05-11,City Transit Transit Pass,26.13,City Transit,Transportation
+TXN00716,2026-05-11,Sports Stadium Service,13.37,Sports Stadium,Entertainment
+TXN01297,2026-05-11,Property Management Home Repair,1271.2,Property Management,Rent/Housing
+TXN01476,2026-05-12,Service Charge Transaction,85.18,Service Charge,Others
+TXN00105,2026-05-12,Etsy Item,38.56,Etsy,Shopping
+TXN01278,2026-05-12,Local Restaurant Food Purchase,45.18,Local Restaurant,Food & Dining
+TXN01180,2026-05-12,YouTube Premium Service,78.16,YouTube Premium,Entertainment
+TXN00654,2026-05-12,Nordstrom Order,48.54,Nordstrom,Shopping
+TXN00121,2026-05-13,Miscellaneous Payment,89.59,Miscellaneous,Others
+TXN00904,2026-05-13,Service Charge Transaction,26.75,Service Charge,Others
+TXN00931,2026-05-13,Etsy Order,146.28,Etsy,Shopping
+TXN00134,2026-05-13,Cash Withdrawal Payment,12.51,Cash Withdrawal,Others
+TXN01191,2026-05-13,Water Bill Bill Payment,182.16,Water Bill,Utilities
+TXN00829,2026-05-14,Xbox Live Membership,46.79,Xbox Live,Entertainment
+TXN00177,2026-05-14,Etsy Store Purchase,163.5,Etsy,Shopping
+TXN00965,2026-05-14,Water Company Service,65.22,Water Company,Utilities
+TXN00721,2026-05-14,Movie Theater Entertainment,28.75,Movie Theater,Entertainment
+TXN00057,2026-05-15,Local Restaurant Groceries,21.76,Local Restaurant,Food & Dining
+TXN01125,2026-05-15,Internet Provider Bill Payment,244.72,Internet Provider,Utilities
+TXN00188,2026-05-16,Urgent Care Prescription,86.42,Urgent Care,Healthcare
+TXN01328,2026-05-16,Apartment Complex Home Repair,1067.15,Apartment Complex,Rent/Housing
+TXN01201,2026-05-16,Macy's Purchase,184.58,Macy's,Shopping
+TXN01354,2026-05-16,Lyft Transportation,21.27,Lyft,Transportation
+TXN00544,2026-05-16,Rent Payment,291.02,IKEA,Rent/Housing
+TXN00487,2026-05-16,LinkedIn Learning Textbook,448.05,LinkedIn Learning,Education
+TXN00167,2026-05-16,Rite Aid Medical Service,110.41,Rite Aid,Healthcare
+TXN00913,2026-05-17,ATM Purchase,79.41,ATM,Others
+TXN01128,2026-05-17,Gas Utility Service,183.52,Gas Utility,Utilities
+TXN01243,2026-05-17,Water Bill Utility Payment,83.62,Water Bill,Utilities
+TXN00676,2026-05-18,Parking Garage Transportation,40.83,Parking Garage,Transportation
+TXN01176,2026-05-18,Netflix Ticket,19.61,Netflix,Entertainment
+TXN00666,2026-05-18,Lowe's Hardware Furniture,1159.61,Lowe's Hardware,Rent/Housing
+TXN00253,2026-05-19,Internet Provider Bill Payment,76.41,Internet Provider,Utilities
+TXN00871,2026-05-19,Urgent Care Medical Bill,292.53,Urgent Care,Healthcare
+TXN01257,2026-05-20,Taco Bell Meal,99.05,Taco Bell,Food & Dining
+TXN00691,2026-05-20,Mortgage Payment,869.18,Apartment Complex,Rent/Housing
+TXN00534,2026-05-20,Apple Music Ticket,30.98,Apple Music,Entertainment
+TXN00926,2026-05-20,Spotify Ticket,71.7,Spotify,Entertainment
+TXN00706,2026-05-21,Water Bill Bill Payment,109.77,Water Bill,Utilities
+TXN00163,2026-05-21,Walgreens Prescription,23.57,Walgreens,Healthcare
+TXN01165,2026-05-22,School Payment Training,121.2,School Payment,Education
+TXN00778,2026-05-22,Health Insurance Prescription,104.58,Health Insurance,Healthcare
+TXN01348,2026-05-22,LinkedIn Learning Textbook,64.4,LinkedIn Learning,Education
+TXN01422,2026-05-22,Urgent Care Prescription,222.17,Urgent Care,Healthcare
+TXN01082,2026-05-22,Miscellaneous Service,31.61,Miscellaneous,Others
+TXN01397,2026-05-22,Rent Payment,848.73,Lowe's Hardware,Rent/Housing
+TXN01299,2026-05-22,Verizon Service,174.87,Verizon,Utilities
+TXN00085,2026-05-23,Udemy Tuition Payment,191.03,Udemy,Education
+TXN00110,2026-05-23,Phone Bill Bill Payment,235.45,Phone Bill,Utilities
+TXN00233,2026-05-24,Electric Bill Subscription,65.63,Electric Bill,Utilities
+TXN00216,2026-05-24,Sprint Monthly Bill,126.98,Sprint,Utilities
+TXN00760,2026-05-24,eBay Online Purchase,62.15,eBay,Shopping
+TXN00502,2026-05-24,Dental Office Medical Bill,192.24,Dental Office,Healthcare
+TXN01438,2026-05-24,Educational Platform Training,433.38,Educational Platform,Education
+TXN01461,2026-05-24,Mortgage Payment,1529.23,Mortgage Company,Rent/Housing
+TXN00488,2026-05-25,ATM Purchase,20.56,ATM,Others
+TXN01227,2026-05-25,Walgreens Copay,119.83,Walgreens,Healthcare
+TXN00159,2026-05-25,City Transit Parking,78.82,City Transit,Transportation
+TXN00903,2026-05-25,ATM Payment,42.4,ATM,Others
+TXN00411,2026-05-25,Water Bill Service,233.87,Water Bill,Utilities
+TXN00973,2026-05-25,Etsy Online Purchase,129.24,Etsy,Shopping
+TXN00702,2026-05-25,Gas Utility Monthly Bill,154.25,Gas Utility,Utilities
+TXN01066,2026-05-26,Rite Aid Medical Bill,192.57,Rite Aid,Healthcare
+TXN00297,2026-05-26,Cash Withdrawal Service,29.18,Cash Withdrawal,Others
+TXN01405,2026-05-26,Rent Payment,1675.73,Housing Authority,Rent/Housing
+TXN01408,2026-05-26,Educational Platform Class Fee,224.99,Educational Platform,Education
+TXN01213,2026-05-26,Macy's Order,66.73,Macy's,Shopping
+TXN00970,2026-05-27,Chipotle Dinner,21.74,Chipotle,Food & Dining
+TXN00108,2026-05-27,Netflix Ticket,103.08,Netflix,Entertainment
+TXN01063,2026-05-27,Walmart Store Purchase,29.24,Walmart,Shopping
+TXN00603,2026-05-28,HBO Max Service,55.9,HBO Max,Entertainment
+TXN00026,2026-05-28,Landlord HOA Fee,1158.45,Landlord,Rent/Housing
+TXN01247,2026-05-28,BP Toll,40.67,BP,Transportation
+TXN00688,2026-05-29,College Bookstore Class Fee,87.05,College Bookstore,Education
+TXN00888,2026-05-29,Khan Academy Tuition Payment,234.03,Khan Academy,Education
+TXN01096,2026-05-30,Water Company Bill Payment,139.5,Water Company,Utilities
+TXN01115,2026-05-30,ATM Fee,39.93,ATM,Others
+TXN00802,2026-05-30,Starbucks Dinner,53.76,Starbucks,Food & Dining
+TXN00137,2026-05-31,Internet Bill Service,223.85,Internet Bill,Utilities
+TXN00039,2026-05-31,Mortgage Payment,1951.74,Apartment Complex,Rent/Housing
+TXN01423,2026-05-31,Udemy Training,111.87,Udemy,Education
+TXN00342,2026-05-31,Trader Joe's Order,18.09,Trader Joe's,Food & Dining
+TXN01258,2026-05-31,KFC Food Purchase,46.48,KFC,Food & Dining
+TXN00128,2026-06-01,Sprint Service,93.41,Sprint,Utilities
+TXN00367,2026-06-01,LinkedIn Learning Class Fee,392.47,LinkedIn Learning,Education
+TXN00451,2026-06-01,Spotify Ticket,23.7,Spotify,Entertainment
+TXN00996,2026-06-01,Verizon Service,101.88,Verizon,Utilities
+TXN00093,2026-06-01,H&M Purchase,97.49,H&M,Shopping
+TXN00890,2026-06-02,LinkedIn Learning Textbook,413.33,LinkedIn Learning,Education
+TXN01100,2026-06-02,City Transit Ride,76.15,City Transit,Transportation
+TXN00726,2026-06-02,Target Shopping,137.05,Target,Shopping
+TXN00843,2026-06-03,Lab Tests Healthcare,86.15,Lab Tests,Healthcare
+TXN00535,2026-06-04,Miscellaneous Service,74.69,Miscellaneous,Others
+TXN00328,2026-06-04,Exxon Transit Pass,24.55,Exxon,Transportation
+TXN00053,2026-06-04,Adidas Purchase,234.86,Adidas,Shopping
+TXN00896,2026-06-04,Sports Stadium Purchase,148.77,Sports Stadium,Entertainment
+TXN00598,2026-06-05,Mortgage Payment,1366.2,Landlord,Rent/Housing
+TXN01401,2026-06-05,Mortgage Payment,287.35,Furniture Store,Rent/Housing
+TXN00058,2026-06-06,Local Restaurant Groceries,123.12,Local Restaurant,Food & Dining
+TXN00285,2026-06-06,Rent Payment Home Repair,143.4,Rent Payment,Rent/Housing
+TXN00709,2026-06-06,IKEA HOA Fee,1480.52,IKEA,Rent/Housing
+TXN01424,2026-06-06,Walgreens Healthcare,45.83,Walgreens,Healthcare
+TXN01123,2026-06-06,BP Toll,79.45,BP,Transportation
+TXN00480,2026-06-06,Rent Payment,630.34,Rent Payment,Rent/Housing
+TXN00595,2026-06-06,IKEA Home Repair,1764.25,IKEA,Rent/Housing
+TXN00945,2026-06-06,Local Pharmacy Copay,73.92,Local Pharmacy,Healthcare
+TXN00232,2026-06-06,Home Depot Online Purchase,226.39,Home Depot,Shopping
+TXN00684,2026-06-07,Game Store Entertainment,106.72,Game Store,Entertainment
+TXN01343,2026-06-07,Internet Bill Bill Payment,94.4,Internet Bill,Utilities
+TXN00476,2026-06-07,Mortgage Payment,1802.93,Rent Payment,Rent/Housing
+TXN00629,2026-06-08,Miscellaneous Transaction,45.94,Miscellaneous,Others
+TXN00164,2026-06-08,Donation Transaction,37.38,Donation,Others
+TXN00742,2026-06-08,Bakery Meal,48.9,Bakery,Food & Dining
+TXN01153,2026-06-09,Service Charge Transaction,99.16,Service Charge,Others
+TXN00162,2026-06-09,Water Bill Subscription,51.21,Water Bill,Utilities
+TXN00325,2026-06-10,Ice Cream Shop Coffee,30.73,Ice Cream Shop,Food & Dining
+TXN01140,2026-06-10,PlayStation Network Subscription,66.49,PlayStation Network,Entertainment
+TXN00621,2026-06-10,Property Management HOA Fee,1236.51,Property Management,Rent/Housing
+TXN00772,2026-06-10,Rent Payment,589.1,Apartment Complex,Rent/Housing
+TXN00972,2026-06-10,Shell Parking,73.43,Shell,Transportation
+TXN00207,2026-06-11,Mortgage Company Home Maintenance,1907.99,Mortgage Company,Rent/Housing
+TXN01480,2026-06-11,Dominos Dinner,38.47,Dominos,Food & Dining
+TXN00868,2026-06-11,Local Pharmacy Healthcare,208.68,Local Pharmacy,Healthcare
+TXN01204,2026-06-12,Walmart Grocery Meal,68.27,Walmart Grocery,Food & Dining
+TXN00286,2026-06-12,Lowe's Hardware HOA Fee,477.04,Lowe's Hardware,Rent/Housing
+TXN00068,2026-06-13,Educational Platform Textbook,420.14,Educational Platform,Education
+TXN01345,2026-06-13,Metro Card Transportation,29.18,Metro Card,Transportation
+TXN00496,2026-06-13,Chipotle Order,102.86,Chipotle,Food & Dining
+TXN00405,2026-06-13,Water Bill Utility Payment,233.42,Water Bill,Utilities
+TXN01418,2026-06-13,KFC Lunch,135.14,KFC,Food & Dining
+TXN01336,2026-06-14,Landlord Furniture,1887.18,Landlord,Rent/Housing
+TXN00751,2026-06-14,Hulu Ticket,67.51,Hulu,Entertainment
+TXN00049,2026-06-14,Red Lobster Breakfast,29.57,Red Lobster,Food & Dining
+TXN01061,2026-06-14,Gas Station Transit Pass,36.82,Gas Station,Transportation
+TXN01122,2026-06-14,Auto Service Fuel,45.5,Auto Service,Transportation
+TXN01183,2026-06-14,Water Bill Service,88.25,Water Bill,Utilities
+TXN00030,2026-06-14,Pet Store Fee,68.64,Pet Store,Others
+TXN00303,2026-06-15,Taco Bell Coffee,45.16,Taco Bell,Food & Dining
+TXN01033,2026-06-15,KFC Breakfast,30.67,KFC,Food & Dining
+TXN00543,2026-06-15,BP Transit Pass,74.48,BP,Transportation
+TXN01432,2026-06-15,Educational Platform Training,87.53,Educational Platform,Education
+TXN00186,2026-06-15,Comcast Utility Payment,157.95,Comcast,Utilities
+TXN00819,2026-06-15,Gift Shop Payment,40.56,Gift Shop,Others
+TXN01051,2026-06-16,Charity Payment,77.29,Charity,Others
+TXN00527,2026-06-16,Apple Music Entertainment,39.61,Apple Music,Entertainment
+TXN00675,2026-06-17,Xbox Live Membership,53.4,Xbox Live,Entertainment
+TXN00292,2026-06-17,Home Depot HOA Fee,319.38,Home Depot,Rent/Housing
+TXN00172,2026-06-18,LinkedIn Learning Educational Material,109.36,LinkedIn Learning,Education
+TXN01025,2026-06-18,Rent Payment,288.41,IKEA,Rent/Housing
+TXN00454,2026-06-18,eBay Online Purchase,111.97,eBay,Shopping
+TXN00359,2026-06-18,Online Shop Shopping,24.82,Online Shop,Shopping
+TXN00836,2026-06-18,HOA Payment Home Maintenance,1643.58,HOA Payment,Rent/Housing
+TXN00849,2026-06-18,Spotify Entertainment,65.54,Spotify,Entertainment
+TXN00213,2026-06-18,Adidas Online Purchase,29.47,Adidas,Shopping
+TXN01219,2026-06-20,Lyft Fuel,16.02,Lyft,Transportation
+TXN01173,2026-06-20,Rent Payment Furniture,1621.21,Rent Payment,Rent/Housing
+TXN00567,2026-06-20,Charity Payment,90.59,Charity,Others
+TXN00029,2026-06-21,Target Item,205.22,Target,Shopping
+TXN00420,2026-06-21,Khan Academy Textbook,350.79,Khan Academy,Education
+TXN01267,2026-06-21,KFC Lunch,47.03,KFC,Food & Dining
+TXN00700,2026-06-21,Sports Stadium Subscription,26.46,Sports Stadium,Entertainment
+TXN00291,2026-06-22,Donation Transaction,21.4,Donation,Others
+TXN01149,2026-06-22,Bank Fee Service,11.96,Bank Fee,Others
+TXN00384,2026-06-22,Red Lobster Breakfast,8.46,Red Lobster,Food & Dining
+TXN00566,2026-06-22,H&M Item,248.94,H&M,Shopping
+TXN01342,2026-06-22,Amazon Order,112.08,Amazon,Shopping
+TXN01085,2026-06-22,Netflix Service,108.52,Netflix,Entertainment
+TXN01404,2026-06-23,PlayStation Network Service,43.54,PlayStation Network,Entertainment
+TXN01093,2026-06-23,Amazon Prime Entertainment,129.39,Amazon Prime,Entertainment
+TXN00514,2026-06-23,T-Mobile Bill Payment,81.62,T-Mobile,Utilities
+TXN00711,2026-06-23,School Payment Tuition Payment,379.53,School Payment,Education
+TXN00351,2026-06-23,College Bookstore Training,273.08,College Bookstore,Education
+TXN00452,2026-06-24,LinkedIn Learning Course Fee,172.32,LinkedIn Learning,Education
+TXN00889,2026-06-24,Home Depot HOA Fee,908.76,Home Depot,Rent/Housing
+TXN00620,2026-06-24,Rite Aid Healthcare,60.07,Rite Aid,Healthcare
+TXN00690,2026-06-24,LinkedIn Learning Course Fee,262.57,LinkedIn Learning,Education
+TXN01139,2026-06-24,College Bookstore Course Fee,104.75,College Bookstore,Education
+TXN00170,2026-06-24,Service Charge Purchase,17.97,Service Charge,Others
+TXN00072,2026-06-24,Online Shop Store Purchase,164.91,Online Shop,Shopping
+TXN01114,2026-06-25,T-Mobile Utility Payment,70.1,T-Mobile,Utilities
+TXN01018,2026-06-25,Netflix Membership,128.89,Netflix,Entertainment
+TXN00542,2026-06-25,College Bookstore Textbook,63.57,College Bookstore,Education
+TXN00644,2026-06-25,Verizon Monthly Bill,204.98,Verizon,Utilities
+TXN00217,2026-06-25,Costco Item,290.98,Costco,Shopping
+TXN00530,2026-06-26,Home Depot Home Maintenance,66.24,Home Depot,Rent/Housing
+TXN00703,2026-06-26,Disney+ Entertainment,28.67,Disney+,Entertainment
+TXN00616,2026-06-26,Shell Parking,52.67,Shell,Transportation
+TXN00446,2026-06-26,Hulu Service,137.22,Hulu,Entertainment
+TXN00021,2026-06-26,Internet Provider Bill Payment,196.0,Internet Provider,Utilities
+TXN01254,2026-06-26,Internet Provider Bill Payment,237.95,Internet Provider,Utilities
+TXN00532,2026-06-28,Electric Bill Bill Payment,222.06,Electric Bill,Utilities
+TXN00226,2026-06-28,College Bookstore Tuition Payment,41.84,College Bookstore,Education
+TXN00219,2026-06-28,Macy's Online Purchase,190.98,Macy's,Shopping
+TXN00127,2026-06-28,McDonald's Lunch,73.61,McDonald's,Food & Dining
+TXN01427,2026-06-29,University Tuition Course Fee,341.69,University Tuition,Education
+TXN00646,2026-06-29,Lowe's Purchase,77.86,Lowe's,Shopping
+TXN00249,2026-06-29,Internet Bill Service,72.72,Internet Bill,Utilities
+TXN00866,2026-06-29,BP Ride,25.94,BP,Transportation
+TXN00114,2026-06-29,Gas Utility Subscription,175.11,Gas Utility,Utilities
+TXN01126,2026-06-30,Movie Theater Membership,94.18,Movie Theater,Entertainment
+TXN00111,2026-06-30,Health Insurance Medicine,168.41,Health Insurance,Healthcare
+TXN01042,2026-06-30,Educational Platform Textbook,66.9,Educational Platform,Education
+TXN01046,2026-06-30,Lab Tests Medical Bill,146.95,Lab Tests,Healthcare
+TXN01236,2026-06-30,Khan Academy Training,338.77,Khan Academy,Education
+TXN01058,2026-06-30,Movie Theater Purchase,83.01,Movie Theater,Entertainment
+TXN00092,2026-06-30,Textbook Store Textbook,216.96,Textbook Store,Education
+TXN00971,2026-06-30,Dental Office Copay,292.9,Dental Office,Healthcare
+TXN00293,2026-07-01,Walmart Shopping,215.17,Walmart,Shopping
+TXN00558,2026-07-01,Lab Tests Prescription,100.6,Lab Tests,Healthcare
+TXN00283,2026-07-01,Pet Store Payment,56.54,Pet Store,Others
+TXN01016,2026-07-02,City Transit Ride,24.12,City Transit,Transportation
+TXN00698,2026-07-02,Hulu Subscription,95.35,Hulu,Entertainment
+TXN01009,2026-07-02,Mortgage Company Home Maintenance,1197.18,Mortgage Company,Rent/Housing
+TXN00984,2026-07-02,Mortgage Company HOA Fee,768.2,Mortgage Company,Rent/Housing
+TXN00315,2026-07-02,Coffee Shop Meal,30.76,Coffee Shop,Food & Dining
+TXN00838,2026-07-02,Charity Payment,44.52,Charity,Others
+TXN01172,2026-07-02,Netflix Subscription,135.69,Netflix,Entertainment
+TXN00430,2026-07-03,Walmart Online Purchase,44.35,Walmart,Shopping
+TXN01358,2026-07-03,Gift Shop Fee,85.38,Gift Shop,Others
+TXN01013,2026-07-03,Local Pharmacy Medicine,115.25,Local Pharmacy,Healthcare
+TXN01232,2026-07-03,Water Company Utility Payment,233.68,Water Company,Utilities
+TXN01383,2026-07-03,Walgreens Medical Service,44.05,Walgreens,Healthcare
+TXN00695,2026-07-04,Udemy Tuition Payment,321.79,Udemy,Education
+TXN01490,2026-07-04,Lowe's Hardware Home Repair,497.32,Lowe's Hardware,Rent/Housing
+TXN00948,2026-07-05,Taxi Service Fuel,67.57,Taxi Service,Transportation
+TXN00653,2026-07-05,Donation Transaction,79.74,Donation,Others
+TXN00876,2026-07-05,Pet Store Service,15.95,Pet Store,Others
+TXN00336,2026-07-06,Dental Office Medicine,42.38,Dental Office,Healthcare
+TXN01210,2026-07-06,Xbox Live Service,40.27,Xbox Live,Entertainment
+TXN00630,2026-07-06,T-Mobile Service,174.39,T-Mobile,Utilities
+TXN01217,2026-07-06,Furniture Store Furniture,1445.04,Furniture Store,Rent/Housing
+TXN00513,2026-07-07,IKEA Store Purchase,285.26,IKEA,Shopping
+TXN00928,2026-07-07,Auto Service Gas Purchase,19.53,Auto Service,Transportation
+TXN01399,2026-07-07,Lab Tests Copay,254.73,Lab Tests,Healthcare
+TXN01329,2026-07-07,Panera Bread Lunch,14.53,Panera Bread,Food & Dining
+TXN01127,2026-07-07,BP Parking,13.99,BP,Transportation
+TXN00503,2026-07-07,Charity Payment,51.46,Charity,Others
+TXN00054,2026-07-08,Apple Music Subscription,66.53,Apple Music,Entertainment
+TXN00344,2026-07-08,HOA Payment Furniture,1955.76,HOA Payment,Rent/Housing
+TXN00512,2026-07-08,Eye Doctor Healthcare,168.49,Eye Doctor,Healthcare
+TXN00985,2026-07-08,Pet Store Fee,66.0,Pet Store,Others
+TXN01065,2026-07-09,Olive Garden Food Purchase,14.59,Olive Garden,Food & Dining
+TXN01150,2026-07-09,Furniture Store Furniture,324.03,Furniture Store,Rent/Housing
+TXN01158,2026-07-09,Khan Academy Tuition Payment,177.53,Khan Academy,Education
+TXN00429,2026-07-10,Bank Fee Fee,73.36,Bank Fee,Others
+TXN00198,2026-07-10,Khan Academy Course Fee,324.05,Khan Academy,Education
+TXN01040,2026-07-10,PlayStation Network Entertainment,46.78,PlayStation Network,Entertainment
+TXN00608,2026-07-10,Bank Fee Service,71.54,Bank Fee,Others
+TXN00592,2026-07-10,AT&T Utility Payment,125.41,AT&T,Utilities
+TXN00555,2026-07-10,University Tuition Course Fee,169.48,University Tuition,Education
+TXN00494,2026-07-10,Eye Doctor Medical Service,60.17,Eye Doctor,Healthcare
+TXN00506,2026-07-10,Mortgage Company Furniture,1775.25,Mortgage Company,Rent/Housing
+TXN00357,2026-07-11,Charity Transaction,39.11,Charity,Others
+TXN00647,2026-07-11,School Payment Class Fee,472.67,School Payment,Education
+TXN01280,2026-07-12,Eye Doctor Copay,195.8,Eye Doctor,Healthcare
+TXN00717,2026-07-12,H&M Store Purchase,208.24,H&M,Shopping
+TXN00812,2026-07-12,Online Course Textbook,306.14,Online Course,Education
+TXN00907,2026-07-12,Rite Aid Medical Bill,276.56,Rite Aid,Healthcare
+TXN00349,2026-07-12,Target Shopping,260.74,Target,Shopping
+TXN00202,2026-07-12,Panera Bread Breakfast,55.44,Panera Bread,Food & Dining
+TXN00486,2026-07-12,Gas Utility Monthly Bill,88.14,Gas Utility,Utilities
+TXN01458,2026-07-13,Apple Store Online Purchase,246.61,Apple Store,Shopping
+TXN00363,2026-07-14,Local Pharmacy Healthcare,152.24,Local Pharmacy,Healthcare
+TXN01047,2026-07-15,Cheesecake Factory Groceries,80.55,Cheesecake Factory,Food & Dining
+TXN01455,2026-07-15,School Payment Training,251.49,School Payment,Education
+TXN00096,2026-07-15,Urgent Care Medical Service,267.57,Urgent Care,Healthcare
+TXN01207,2026-07-15,Starbucks Groceries,120.43,Starbucks,Food & Dining
+TXN01286,2026-07-15,Cash Withdrawal Service,46.96,Cash Withdrawal,Others
+TXN00927,2026-07-15,McDonald's Lunch,25.04,McDonald's,Food & Dining
+TXN00875,2026-07-15,University Tuition Class Fee,188.71,University Tuition,Education
+TXN00383,2026-07-15,Rite Aid Medicine,163.51,Rite Aid,Healthcare
+TXN01292,2026-07-16,Online Course Course Fee,262.27,Online Course,Education
+TXN00797,2026-07-16,Coursera Class Fee,461.7,Coursera,Education
+TXN00390,2026-07-17,Costco Order,298.7,Costco,Shopping
+TXN00259,2026-07-17,Uber Transportation,50.06,Uber,Transportation
+TXN00335,2026-07-17,Furniture Store Furniture,801.36,Furniture Store,Rent/Housing
+TXN01145,2026-07-17,Rent Payment,290.19,HOA Payment,Rent/Housing
+TXN00835,2026-07-18,PlayStation Network Entertainment,17.51,PlayStation Network,Entertainment
+TXN00020,2026-07-18,Donation Payment,96.37,Donation,Others
+TXN00143,2026-07-18,Verizon Utility Payment,206.76,Verizon,Utilities
+TXN01497,2026-07-19,Urgent Care Medical Bill,115.52,Urgent Care,Healthcare
+TXN00795,2026-07-19,Rite Aid Prescription,129.42,Rite Aid,Healthcare
+TXN01148,2026-07-19,Medical Clinic Copay,197.55,Medical Clinic,Healthcare
+TXN00235,2026-07-19,Spotify Ticket,47.88,Spotify,Entertainment
+TXN01112,2026-07-19,Service Charge Fee,40.39,Service Charge,Others
+TXN00975,2026-07-19,Miscellaneous Service,49.15,Miscellaneous,Others
+TXN00272,2026-07-19,Coffee Shop Lunch,82.07,Coffee Shop,Food & Dining
+TXN00343,2026-07-20,BP Ride,25.89,BP,Transportation
+TXN01415,2026-07-20,Parking Garage Transportation,77.18,Parking Garage,Transportation
+TXN00734,2026-07-20,Khan Academy Tuition Payment,358.5,Khan Academy,Education
+TXN00107,2026-07-20,Educational Platform Textbook,51.9,Educational Platform,Education
+TXN00031,2026-07-20,Chevron Fuel,62.11,Chevron,Transportation
+TXN01309,2026-07-21,Starbucks Breakfast,125.2,Starbucks,Food & Dining
+TXN00484,2026-07-21,Exxon Transportation,68.86,Exxon,Transportation
+TXN00423,2026-07-21,Hospital Healthcare,76.4,Hospital,Healthcare
+TXN00109,2026-07-21,Housing Authority HOA Fee,999.0,Housing Authority,Rent/Housing
+TXN01483,2026-07-21,Sprint Service,83.36,Sprint,Utilities
+TXN01081,2026-07-21,Uber Parking,78.19,Uber,Transportation
+TXN00505,2026-07-22,eBay Shopping,98.24,eBay,Shopping
+TXN01475,2026-07-22,Walmart Online Purchase,150.23,Walmart,Shopping
+TXN01428,2026-07-22,Parking Garage Parking,58.96,Parking Garage,Transportation
+TXN01055,2026-07-22,Sprint Utility Payment,223.63,Sprint,Utilities
+TXN00815,2026-07-22,Charity Payment,45.61,Charity,Others
+TXN01324,2026-07-23,Auto Service Parking,56.64,Auto Service,Transportation
+TXN00498,2026-07-23,Local Pharmacy Healthcare,290.72,Local Pharmacy,Healthcare
+TXN00118,2026-07-24,Amazon Prime Purchase,14.05,Amazon Prime,Entertainment
+TXN01117,2026-07-24,Educational Platform Course Fee,35.66,Educational Platform,Education
+TXN01287,2026-07-24,Medical Clinic Medicine,176.02,Medical Clinic,Healthcare
+TXN00379,2026-07-24,Electric Bill Utility Payment,196.26,Electric Bill,Utilities
+TXN00028,2026-07-24,Eye Doctor Healthcare,163.73,Eye Doctor,Healthcare
+TXN00022,2026-07-25,Lowe's Hardware Home Repair,271.92,Lowe's Hardware,Rent/Housing
+TXN00257,2026-07-25,Xbox Live Ticket,88.55,Xbox Live,Entertainment
+TXN01073,2026-07-26,HOA Payment HOA Fee,53.19,HOA Payment,Rent/Housing
+TXN00941,2026-07-26,Coursera Course Fee,297.43,Coursera,Education
+TXN00572,2026-07-26,Shell Transit Pass,59.85,Shell,Transportation
+TXN00824,2026-07-27,Internet Provider Monthly Bill,212.26,Internet Provider,Utilities
+TXN00588,2026-07-27,Lowe's Item,181.46,Lowe's,Shopping
+TXN00978,2026-07-28,Furniture Store Home Maintenance,1528.04,Furniture Store,Rent/Housing
+TXN01097,2026-07-28,University Tuition Class Fee,168.88,University Tuition,Education
+TXN00766,2026-07-28,Udemy Course Fee,88.12,Udemy,Education
+TXN00682,2026-07-28,Textbook Store Textbook,57.74,Textbook Store,Education
+TXN00024,2026-07-29,University Tuition Class Fee,127.73,University Tuition,Education
+TXN01330,2026-07-29,Cash Withdrawal Fee,44.59,Cash Withdrawal,Others
+TXN00622,2026-07-29,Rite Aid Medical Bill,118.27,Rite Aid,Healthcare
+TXN00479,2026-07-29,HBO Max Membership,26.62,HBO Max,Entertainment
+TXN01240,2026-07-29,Internet Provider Utility Payment,97.11,Internet Provider,Utilities
+TXN01362,2026-07-29,Textbook Store Tuition Payment,441.52,Textbook Store,Education
+TXN01111,2026-07-30,YouTube Premium Purchase,102.09,YouTube Premium,Entertainment
+TXN00648,2026-07-30,Gift Shop Transaction,70.61,Gift Shop,Others
+TXN01441,2026-07-30,Bank Fee Service,54.02,Bank Fee,Others
+TXN00693,2026-07-30,BP Fuel,18.3,BP,Transportation
+TXN01195,2026-07-31,Amazon Prime Purchase,87.29,Amazon Prime,Entertainment
+TXN00607,2026-07-31,ComEd Electric Subscription,241.11,ComEd Electric,Utilities
+TXN00441,2026-07-31,Mortgage Payment,314.39,Furniture Store,Rent/Housing
+TXN00549,2026-07-31,Sports Stadium Ticket,76.0,Sports Stadium,Entertainment
+TXN00694,2026-08-01,Lowe's Hardware Home Repair,211.27,Lowe's Hardware,Rent/Housing
+TXN01381,2026-08-01,Furniture Store Furniture,576.92,Furniture Store,Rent/Housing
+TXN00012,2026-08-01,Educational Platform Course Fee,437.84,Educational Platform,Education
+TXN01454,2026-08-01,Auto Service Transportation,49.34,Auto Service,Transportation
+TXN00911,2026-08-01,Miscellaneous Fee,96.18,Miscellaneous,Others
+TXN01256,2026-08-02,School Payment Class Fee,246.35,School Payment,Education
+TXN00223,2026-08-02,Bank Fee Purchase,28.26,Bank Fee,Others
+TXN01429,2026-08-02,Pet Store Service,63.56,Pet Store,Others
+TXN00368,2026-08-03,Zara Shopping,68.02,Zara,Shopping
+TXN00392,2026-08-03,Lowe's Item,229.59,Lowe's,Shopping
+TXN00267,2026-08-03,LinkedIn Learning Educational Material,35.46,LinkedIn Learning,Education
+TXN01052,2026-08-04,Pet Store Purchase,37.96,Pet Store,Others
+TXN00979,2026-08-05,Spotify Purchase,127.23,Spotify,Entertainment
+TXN01413,2026-08-05,Walmart Shopping,194.54,Walmart,Shopping
+TXN00635,2026-08-05,University Tuition Tuition Payment,122.28,University Tuition,Education
+TXN01472,2026-08-07,Apple Music Entertainment,118.11,Apple Music,Entertainment
+TXN00082,2026-08-07,Taxi Service Parking,27.18,Taxi Service,Transportation
+TXN00251,2026-08-07,Housing Authority HOA Fee,827.79,Housing Authority,Rent/Housing
+TXN01142,2026-08-07,Dental Office Medicine,227.24,Dental Office,Healthcare
+TXN00844,2026-08-07,Nordstrom Purchase,273.72,Nordstrom,Shopping
+TXN00956,2026-08-07,IKEA Order,92.02,IKEA,Shopping
+TXN00499,2026-08-08,Landlord Home Repair,986.82,Landlord,Rent/Housing
+TXN01416,2026-08-08,Eye Doctor Medical Bill,297.09,Eye Doctor,Healthcare
+TXN00757,2026-08-08,Health Insurance Medical Bill,219.49,Health Insurance,Healthcare
+TXN00672,2026-08-08,Mortgage Company Furniture,1218.64,Mortgage Company,Rent/Housing
+TXN00025,2026-08-09,Lab Tests Medicine,104.29,Lab Tests,Healthcare
+TXN01346,2026-08-09,Apartment Complex HOA Fee,1751.67,Apartment Complex,Rent/Housing
+TXN01205,2026-08-09,Taxi Service Fuel,59.42,Taxi Service,Transportation
+TXN01011,2026-08-09,Local Pharmacy Medicine,104.75,Local Pharmacy,Healthcare
+TXN00187,2026-08-09,Gift Shop Service,57.41,Gift Shop,Others
+TXN00382,2026-08-09,Burger King Food Purchase,14.98,Burger King,Food & Dining
+TXN00794,2026-08-09,Adidas Online Purchase,167.2,Adidas,Shopping
+TXN00126,2026-08-09,Red Lobster Dinner,120.28,Red Lobster,Food & Dining
+TXN01020,2026-08-09,Disney+ Service,114.58,Disney+,Entertainment
+TXN01248,2026-08-10,Uber Gas Purchase,27.53,Uber,Transportation
+TXN01376,2026-08-10,BP Transportation,50.48,BP,Transportation
+TXN00872,2026-08-10,Internet Provider Utility Payment,205.91,Internet Provider,Utilities
+TXN01323,2026-08-10,Lab Tests Copay,105.66,Lab Tests,Healthcare
+TXN01216,2026-08-10,Rent Payment,865.98,Landlord,Rent/Housing
+TXN00510,2026-08-10,Hospital Medical Service,240.7,Hospital,Healthcare
+TXN00884,2026-08-10,Disney+ Entertainment,94.1,Disney+,Entertainment
+TXN00278,2026-08-11,College Bookstore Textbook,143.17,College Bookstore,Education
+TXN00729,2026-08-11,Property Management HOA Fee,492.67,Property Management,Rent/Housing
+TXN01290,2026-08-11,T-Mobile Subscription,61.23,T-Mobile,Utilities
+TXN00933,2026-08-11,Electric Bill Utility Payment,169.5,Electric Bill,Utilities
+TXN01259,2026-08-11,Ice Cream Shop Meal,58.42,Ice Cream Shop,Food & Dining
+TXN00556,2026-08-12,Water Bill Monthly Bill,108.27,Water Bill,Utilities
+TXN01192,2026-08-12,ComEd Electric Utility Payment,244.05,ComEd Electric,Utilities
+TXN00584,2026-08-12,Exxon Transit Pass,42.54,Exxon,Transportation
+TXN00614,2026-08-14,College Bookstore Class Fee,474.81,College Bookstore,Education
+TXN00434,2026-08-14,Coursera Tuition Payment,165.6,Coursera,Education
+TXN01296,2026-08-14,Taco Bell Breakfast,116.3,Taco Bell,Food & Dining
+TXN01496,2026-08-14,Educational Platform Textbook,218.22,Educational Platform,Education
+TXN01379,2026-08-15,Eye Doctor Medical Service,26.25,Eye Doctor,Healthcare
+TXN01273,2026-08-15,Burger King Breakfast,72.13,Burger King,Food & Dining
+TXN00725,2026-08-15,Dental Office Healthcare,158.88,Dental Office,Healthcare
+TXN01270,2026-08-15,Medical Clinic Medicine,38.63,Medical Clinic,Healthcare
+TXN00055,2026-08-15,Bank Fee Transaction,87.43,Bank Fee,Others
+TXN00332,2026-08-15,KFC Dinner,23.6,KFC,Food & Dining
+TXN00746,2026-08-16,Taxi Service Fuel,62.25,Taxi Service,Transportation
+TXN00892,2026-08-17,Red Lobster Breakfast,39.73,Red Lobster,Food & Dining
+TXN00553,2026-08-17,Lyft Toll,12.84,Lyft,Transportation
+TXN00220,2026-08-18,Miscellaneous Service,17.24,Miscellaneous,Others
+TXN00559,2026-08-18,Textbook Store Course Fee,367.33,Textbook Store,Education
+TXN01500,2026-08-18,Bank Fee Transaction,45.55,Bank Fee,Others
+TXN00444,2026-08-18,HOA Payment Home Repair,1612.44,HOA Payment,Rent/Housing
+TXN01032,2026-08-19,Chipotle Food Purchase,68.43,Chipotle,Food & Dining
+TXN00765,2026-08-19,University Tuition Educational Material,156.81,University Tuition,Education
+TXN01447,2026-08-19,Bank Fee Payment,61.97,Bank Fee,Others
+TXN00737,2026-08-19,Spotify Entertainment,51.92,Spotify,Entertainment
+TXN00079,2026-08-20,Taxi Service Transportation,71.6,Taxi Service,Transportation
+TXN00921,2026-08-20,Medical Clinic Copay,192.57,Medical Clinic,Healthcare
+TXN01249,2026-08-21,Coursera Tuition Payment,320.09,Coursera,Education
+TXN01460,2026-08-21,Internet Bill Subscription,68.62,Internet Bill,Utilities
+TXN00602,2026-08-22,AT&T Service,148.51,AT&T,Utilities
+TXN00882,2026-08-22,Pizza Hut Food Purchase,23.3,Pizza Hut,Food & Dining
+TXN00050,2026-08-22,Burger King Dinner,46.07,Burger King,Food & Dining
+TXN01211,2026-08-23,Lab Tests Healthcare,147.94,Lab Tests,Healthcare
+TXN01048,2026-08-23,Electric Bill Monthly Bill,179.81,Electric Bill,Utilities
+TXN00155,2026-08-23,Verizon Subscription,104.2,Verizon,Utilities
+TXN00228,2026-08-23,Rent Payment Furniture,749.17,Rent Payment,Rent/Housing
+TXN00334,2026-08-24,Costco Store Purchase,289.74,Costco,Shopping
+TXN01332,2026-08-24,HBO Max Membership,30.22,HBO Max,Entertainment
+TXN00679,2026-08-24,Rent Payment,102.49,Furniture Store,Rent/Housing
+TXN01482,2026-08-25,Kroger Order,40.62,Kroger,Food & Dining
+TXN00269,2026-08-26,Metro Card Transit Pass,25.3,Metro Card,Transportation
+TXN00212,2026-08-26,BP Toll,38.51,BP,Transportation
+TXN01321,2026-08-26,Xbox Live Purchase,21.27,Xbox Live,Entertainment
+TXN00377,2026-08-27,Nordstrom Online Purchase,264.93,Nordstrom,Shopping
+TXN00353,2026-08-27,College Bookstore Educational Material,226.54,College Bookstore,Education
+TXN00995,2026-08-28,Cash Withdrawal Fee,15.15,Cash Withdrawal,Others
+TXN00069,2026-08-28,LinkedIn Learning Course Fee,237.26,LinkedIn Learning,Education
+TXN01391,2026-08-29,Home Depot Online Purchase,38.18,Home Depot,Shopping
+TXN01198,2026-08-29,KFC Groceries,133.11,KFC,Food & Dining
+TXN00658,2026-08-29,Xbox Live Entertainment,75.23,Xbox Live,Entertainment
+TXN01054,2026-08-29,Movie Theater Subscription,144.13,Movie Theater,Entertainment
+TXN00115,2026-08-29,Coffee Shop Food Purchase,45.87,Coffee Shop,Food & Dining
+TXN00180,2026-08-30,Chevron Ride,38.16,Chevron,Transportation
+TXN00776,2026-08-30,eBay Purchase,255.68,eBay,Shopping
+TXN00932,2026-08-30,Olive Garden Order,110.86,Olive Garden,Food & Dining
+TXN00372,2026-08-30,Mortgage Payment,334.32,Rent Payment,Rent/Housing
+TXN00250,2026-08-30,Disney+ Service,66.97,Disney+,Entertainment
+TXN00950,2026-08-30,Local Pharmacy Medical Bill,117.02,Local Pharmacy,Healthcare
+TXN00043,2026-08-30,School Payment Training,458.15,School Payment,Education
+TXN00678,2026-08-30,Sprint Monthly Bill,121.63,Sprint,Utilities
+TXN00310,2026-08-30,Eye Doctor Prescription,68.16,Eye Doctor,Healthcare
+TXN01037,2026-08-30,ComEd Electric Utility Payment,56.61,ComEd Electric,Utilities
+TXN01380,2026-08-31,Disney+ Membership,87.42,Disney+,Entertainment
+TXN00631,2026-08-31,KFC Groceries,13.76,KFC,Food & Dining
+TXN00161,2026-08-31,Health Insurance Prescription,171.85,Health Insurance,Healthcare
+TXN01143,2026-08-31,Disney+ Membership,138.4,Disney+,Entertainment
+TXN00120,2026-08-31,City Transit Fuel,33.77,City Transit,Transportation
+TXN00834,2026-08-31,Amazon Prime Subscription,42.53,Amazon Prime,Entertainment
+TXN00018,2026-09-01,Chevron Ride,18.35,Chevron,Transportation
+TXN00327,2026-09-01,Khan Academy Educational Material,229.31,Khan Academy,Education
+TXN00593,2026-09-01,AT&T Utility Payment,58.57,AT&T,Utilities
+TXN01459,2026-09-02,Rite Aid Medicine,124.7,Rite Aid,Healthcare
+TXN00045,2026-09-02,Nike Shopping,229.17,Nike,Shopping
+TXN00146,2026-09-02,Walgreens Medical Service,84.28,Walgreens,Healthcare
+TXN00322,2026-09-02,School Payment Course Fee,326.26,School Payment,Education
+TXN00685,2026-09-02,Hulu Entertainment,98.59,Hulu,Entertainment
+TXN01233,2026-09-02,Exxon Toll,69.02,Exxon,Transportation
+TXN00144,2026-09-03,School Payment Educational Material,332.43,School Payment,Education
+TXN00880,2026-09-03,Target Item,261.48,Target,Shopping
+TXN00139,2026-09-03,Burger King Coffee,39.42,Burger King,Food & Dining
+TXN00407,2026-09-04,Game Store Purchase,67.39,Game Store,Entertainment
+TXN01445,2026-09-04,University Tuition Course Fee,379.62,University Tuition,Education
+TXN01250,2026-09-04,KFC Coffee,33.68,KFC,Food & Dining
+TXN01263,2026-09-04,Costco Purchase,219.77,Costco,Shopping
+TXN00090,2026-09-04,Gas Utility Bill Payment,104.66,Gas Utility,Utilities
+TXN01023,2026-09-04,Game Store Ticket,140.42,Game Store,Entertainment
+TXN00736,2026-09-05,BP Toll,76.33,BP,Transportation
+TXN00263,2026-09-05,Eye Doctor Healthcare,95.97,Eye Doctor,Healthcare
+TXN00696,2026-09-05,Online Shop Purchase,150.29,Online Shop,Shopping
+TXN00191,2026-09-05,Amazon Online Purchase,276.4,Amazon,Shopping
+TXN00998,2026-09-05,Metro Card Parking,79.02,Metro Card,Transportation
+TXN00103,2026-09-06,Rent Payment Home Maintenance,1305.28,Rent Payment,Rent/Housing
+TXN00908,2026-09-06,Medical Clinic Copay,260.05,Medical Clinic,Healthcare
+TXN01420,2026-09-06,ComEd Electric Monthly Bill,64.08,ComEd Electric,Utilities
+TXN00174,2026-09-06,Khan Academy Class Fee,364.62,Khan Academy,Education
+TXN01433,2026-09-06,Lowe's Shopping,174.68,Lowe's,Shopping
+TXN00011,2026-09-07,Educational Platform Class Fee,299.09,Educational Platform,Education
+TXN00649,2026-09-07,Amazon Prime Ticket,61.63,Amazon Prime,Entertainment
+TXN00643,2026-09-07,Sprint Bill Payment,198.2,Sprint,Utilities
+TXN00842,2026-09-08,Gas Station Transportation,25.06,Gas Station,Transportation
+TXN01228,2026-09-08,KFC Coffee,83.56,KFC,Food & Dining
+TXN00101,2026-09-09,Safeway Order,20.67,Safeway,Food & Dining
+TXN00017,2026-09-09,Textbook Store Tuition Payment,456.2,Textbook Store,Education
+TXN01083,2026-09-09,Disney+ Purchase,30.54,Disney+,Entertainment
+TXN01386,2026-09-09,Educational Platform Textbook,246.48,Educational Platform,Education
+TXN00425,2026-09-09,Mortgage Company Home Maintenance,353.98,Mortgage Company,Rent/Housing
+TXN01251,2026-09-09,Gas Station Toll,16.95,Gas Station,Transportation
+TXN01339,2026-09-09,Donation Payment,82.04,Donation,Others
+TXN00949,2026-09-09,Walgreens Copay,179.61,Walgreens,Healthcare
+TXN01196,2026-09-09,LinkedIn Learning Tuition Payment,286.59,LinkedIn Learning,Education
+TXN00719,2026-09-09,Dental Office Prescription,274.43,Dental Office,Healthcare
+TXN00341,2026-09-09,Health Insurance Medical Service,83.98,Health Insurance,Healthcare
+TXN01035,2026-09-10,Coursera Educational Material,211.97,Coursera,Education
+TXN00414,2026-09-10,Electric Bill Utility Payment,215.93,Electric Bill,Utilities
+TXN00243,2026-09-10,Coursera Course Fee,312.9,Coursera,Education
+TXN01491,2026-09-10,Lab Tests Medicine,166.71,Lab Tests,Healthcare
+TXN00754,2026-09-10,Miscellaneous Transaction,54.34,Miscellaneous,Others
+TXN00774,2026-09-10,Charity Fee,27.22,Charity,Others
+TXN00723,2026-09-11,Charity Transaction,92.08,Charity,Others
+TXN00934,2026-09-11,Rent Payment,1844.37,Property Management,Rent/Housing
+TXN01190,2026-09-11,Lowe's Hardware Home Maintenance,1300.48,Lowe's Hardware,Rent/Housing
+TXN00225,2026-09-11,T-Mobile Bill Payment,152.83,T-Mobile,Utilities
+TXN00481,2026-09-11,Gas Utility Bill Payment,169.15,Gas Utility,Utilities
+TXN00831,2026-09-12,Sports Stadium Service,11.64,Sports Stadium,Entertainment
+TXN00537,2026-09-12,Rite Aid Medicine,160.43,Rite Aid,Healthcare
+TXN00789,2026-09-12,T-Mobile Service,233.17,T-Mobile,Utilities
+TXN00640,2026-09-12,Apple Music Entertainment,133.7,Apple Music,Entertainment
+TXN00701,2026-09-12,Textbook Store Class Fee,247.98,Textbook Store,Education
+TXN01029,2026-09-12,PlayStation Network Service,87.16,PlayStation Network,Entertainment
+TXN00337,2026-09-12,Parking Garage Ride,37.37,Parking Garage,Transportation
+TXN00097,2026-09-13,Sprint Monthly Bill,197.93,Sprint,Utilities
+TXN00264,2026-09-13,Lowe's Online Purchase,232.69,Lowe's,Shopping
+TXN00403,2026-09-13,Kroger Breakfast,35.13,Kroger,Food & Dining
+TXN00781,2026-09-13,Kroger Groceries,48.1,Kroger,Food & Dining
+TXN01486,2026-09-13,Charity Payment,97.59,Charity,Others
+TXN00428,2026-09-13,Exxon Transportation,70.04,Exxon,Transportation
+TXN00580,2026-09-14,LinkedIn Learning Educational Material,397.29,LinkedIn Learning,Education
+TXN00404,2026-09-14,Verizon Service,91.78,Verizon,Utilities
+TXN00210,2026-09-14,Udemy Training,496.4,Udemy,Education
+TXN00668,2026-09-14,Gas Station Transit Pass,13.49,Gas Station,Transportation
+TXN01162,2026-09-15,Dental Office Healthcare,24.74,Dental Office,Healthcare
+TXN00930,2026-09-15,School Payment Textbook,190.04,School Payment,Education
+TXN00940,2026-09-15,Car Wash Parking,40.04,Car Wash,Transportation
+TXN00954,2026-09-16,Trader Joe's Dinner,123.69,Trader Joe's,Food & Dining
+TXN00733,2026-09-16,Charity Transaction,42.16,Charity,Others
+TXN01106,2026-09-16,Educational Platform Class Fee,72.17,Educational Platform,Education
+TXN01006,2026-09-16,Miscellaneous Transaction,67.74,Miscellaneous,Others
+TXN00074,2026-09-16,Nike Purchase,125.31,Nike,Shopping
+TXN01467,2026-09-16,KFC Breakfast,52.16,KFC,Food & Dining
+TXN00912,2026-09-16,HOA Payment HOA Fee,163.89,HOA Payment,Rent/Housing
+TXN01436,2026-09-17,ATM Payment,90.32,ATM,Others
+TXN01264,2026-09-17,Cash Withdrawal Purchase,59.72,Cash Withdrawal,Others
+TXN00371,2026-09-17,Water Bill Bill Payment,96.46,Water Bill,Utilities
+TXN00065,2026-09-17,Concert Hall Subscription,32.93,Concert Hall,Entertainment
+TXN00238,2026-09-17,ATM Payment,86.94,ATM,Others
+TXN00804,2026-09-17,University Tuition Educational Material,151.43,University Tuition,Education
+TXN01312,2026-09-18,Costco Order,218.9,Costco,Shopping
+TXN00008,2026-09-18,Exxon Gas Purchase,38.11,Exxon,Transportation
+TXN01451,2026-09-18,ComEd Electric Utility Payment,202.57,ComEd Electric,Utilities
+TXN01285,2026-09-18,Subway Food Purchase,31.35,Subway,Food & Dining
+TXN00924,2026-09-19,Etsy Purchase,213.59,Etsy,Shopping
+TXN01163,2026-09-21,School Payment Educational Material,168.67,School Payment,Education
+TXN01302,2026-09-21,Water Company Monthly Bill,157.15,Water Company,Utilities
+TXN00540,2026-09-22,Sports Stadium Membership,45.41,Sports Stadium,Entertainment
+TXN00234,2026-09-23,Disney+ Membership,108.68,Disney+,Entertainment
+TXN00465,2026-09-23,Chevron Fuel,11.78,Chevron,Transportation
+TXN00712,2026-09-23,Netflix Purchase,55.29,Netflix,Entertainment
+TXN00443,2026-09-24,Burger King Coffee,109.12,Burger King,Food & Dining
+TXN01452,2026-09-24,ComEd Electric Subscription,220.37,ComEd Electric,Utilities
+TXN00826,2026-09-24,Bakery Coffee,35.64,Bakery,Food & Dining
+TXN01341,2026-09-25,Online Course Tuition Payment,255.64,Online Course,Education
+TXN00519,2026-09-25,Home Depot Home Maintenance,281.73,Home Depot,Rent/Housing
+TXN01300,2026-09-26,Walgreens Medical Service,179.61,Walgreens,Healthcare
+TXN00692,2026-09-26,Concert Hall Purchase,79.79,Concert Hall,Entertainment
+TXN00260,2026-09-26,Walmart Grocery Lunch,29.9,Walmart Grocery,Food & Dining
+TXN00813,2026-09-26,Chevron Transit Pass,29.82,Chevron,Transportation
+TXN00577,2026-09-26,Exxon Transportation,20.61,Exxon,Transportation
+TXN01465,2026-09-26,Coursera Training,240.47,Coursera,Education
+TXN00312,2026-09-26,Nordstrom Online Purchase,29.99,Nordstrom,Shopping
+TXN01402,2026-09-26,Hospital Healthcare,191.63,Hospital,Healthcare
+TXN00313,2026-09-26,Sprint Monthly Bill,77.76,Sprint,Utilities
+TXN01261,2026-09-26,Furniture Store Furniture,1255.21,Furniture Store,Rent/Housing
+TXN00200,2026-09-26,Zara Shopping,240.02,Zara,Shopping
+TXN00036,2026-09-27,Coffee Shop Food Purchase,118.57,Coffee Shop,Food & Dining
+TXN00078,2026-09-27,Metro Card Gas Purchase,44.59,Metro Card,Transportation
+TXN00035,2026-09-27,Udemy Course Fee,160.7,Udemy,Education
+TXN00183,2026-09-27,Pet Store Purchase,76.81,Pet Store,Others
+TXN01393,2026-09-27,Coursera Tuition Payment,117.98,Coursera,Education
+TXN00061,2026-09-27,Gas Utility Monthly Bill,71.57,Gas Utility,Utilities
+TXN00124,2026-09-28,H&M Order,139.12,H&M,Shopping
+TXN00396,2026-09-28,Lowe's Shopping,250.44,Lowe's,Shopping
+TXN00457,2026-09-29,PlayStation Network Entertainment,27.63,PlayStation Network,Entertainment
+TXN00495,2026-09-30,Apartment Complex Home Repair,1022.15,Apartment Complex,Rent/Housing
+TXN01389,2026-09-30,Burger King Food Purchase,43.72,Burger King,Food & Dining
+TXN01174,2026-10-01,Amazon Online Purchase,105.99,Amazon,Shopping
+TXN01359,2026-10-01,Udemy Training,254.17,Udemy,Education
+TXN00034,2026-10-01,Toll Road Transportation,78.59,Toll Road,Transportation
+TXN00517,2026-10-02,Mortgage Company Furniture,1614.2,Mortgage Company,Rent/Housing
+TXN00203,2026-10-02,Educational Platform Class Fee,234.11,Educational Platform,Education
+TXN00255,2026-10-02,Movie Theater Entertainment,130.15,Movie Theater,Entertainment
+TXN01316,2026-10-03,Adidas Shopping,34.63,Adidas,Shopping
+TXN00320,2026-10-03,Rent Payment Home Maintenance,1107.61,Rent Payment,Rent/Housing
+TXN00848,2026-10-03,Chevron Gas Purchase,62.04,Chevron,Transportation
+TXN00490,2026-10-03,BP Toll,34.01,BP,Transportation
+TXN00158,2026-10-03,Olive Garden Breakfast,81.91,Olive Garden,Food & Dining
+TXN00999,2026-10-03,Water Bill Bill Payment,68.59,Water Bill,Utilities
+TXN01349,2026-10-05,Rent Payment,1510.57,Property Management,Rent/Housing
+TXN00150,2026-10-05,Subway Coffee,11.87,Subway,Food & Dining
+TXN01293,2026-10-05,T-Mobile Monthly Bill,54.45,T-Mobile,Utilities
+TXN00516,2026-10-05,Pet Store Payment,72.7,Pet Store,Others
+TXN00990,2026-10-05,Amazon Store Purchase,76.63,Amazon,Shopping
+TXN00942,2026-10-05,Whole Foods Groceries,83.79,Whole Foods,Food & Dining
+TXN00727,2026-10-06,Medical Clinic Prescription,54.8,Medical Clinic,Healthcare
+TXN00394,2026-10-06,IKEA Order,160.38,IKEA,Shopping
+TXN00937,2026-10-06,Mortgage Payment,1802.43,IKEA,Rent/Housing
+TXN00275,2026-10-07,Exxon Ride,28.69,Exxon,Transportation
+TXN00639,2026-10-07,Toll Road Gas Purchase,43.98,Toll Road,Transportation
+TXN00895,2026-10-07,Khan Academy Tuition Payment,106.3,Khan Academy,Education
+TXN00472,2026-10-07,Housing Authority Home Maintenance,1041.33,Housing Authority,Rent/Housing
+TXN00914,2026-10-07,Nordstrom Order,70.47,Nordstrom,Shopping
+TXN00145,2026-10-07,Olive Garden Breakfast,21.53,Olive Garden,Food & Dining
+TXN00258,2026-10-08,Chipotle Groceries,115.96,Chipotle,Food & Dining
+TXN00308,2026-10-08,Burger King Meal,8.12,Burger King,Food & Dining
+TXN00860,2026-10-08,Online Shop Shopping,50.36,Online Shop,Shopping
+TXN00471,2026-10-08,Panera Bread Dinner,24.47,Panera Bread,Food & Dining
+TXN00820,2026-10-09,Walmart Grocery Coffee,36.52,Walmart Grocery,Food & Dining
+TXN00885,2026-10-10,Water Company Monthly Bill,168.23,Water Company,Utilities
+TXN00783,2026-10-10,HOA Payment HOA Fee,1231.14,HOA Payment,Rent/Housing
+TXN00388,2026-10-11,Trader Joe's Lunch,33.96,Trader Joe's,Food & Dining
+TXN00378,2026-10-11,LinkedIn Learning Tuition Payment,326.59,LinkedIn Learning,Education
+TXN01017,2026-10-11,IKEA Online Purchase,128.93,IKEA,Shopping
+TXN01002,2026-10-11,Housing Authority Furniture,1209.56,Housing Authority,Rent/Housing
+TXN00564,2026-10-12,Dental Office Copay,176.28,Dental Office,Healthcare
+TXN01197,2026-10-12,Gas Utility Service,180.0,Gas Utility,Utilities
+TXN01132,2026-10-12,Cash Withdrawal Purchase,95.32,Cash Withdrawal,Others
+TXN00287,2026-10-12,Walgreens Healthcare,286.49,Walgreens,Healthcare
+TXN01283,2026-10-12,Local Restaurant Groceries,90.19,Local Restaurant,Food & Dining
+TXN00464,2026-10-13,Eye Doctor Medical Bill,230.44,Eye Doctor,Healthcare
+TXN01318,2026-10-13,Dominos Dinner,67.18,Dominos,Food & Dining
+TXN00808,2026-10-13,Nike Purchase,273.34,Nike,Shopping
+TXN00447,2026-10-13,Spotify Purchase,30.64,Spotify,Entertainment
+TXN00601,2026-10-13,Bakery Dinner,131.24,Bakery,Food & Dining
+TXN00152,2026-10-13,Nordstrom Item,271.35,Nordstrom,Shopping
+TXN00380,2026-10-14,Charity Purchase,19.08,Charity,Others
+TXN00038,2026-10-14,Online Shop Online Purchase,66.43,Online Shop,Shopping
+TXN00160,2026-10-14,Nordstrom Order,156.01,Nordstrom,Shopping
+TXN00432,2026-10-14,University Tuition Class Fee,366.56,University Tuition,Education
+TXN01160,2026-10-14,School Payment Tuition Payment,325.71,School Payment,Education
+TXN01356,2026-10-15,Game Store Ticket,93.23,Game Store,Entertainment
+TXN00961,2026-10-15,Rent Payment,1808.58,Rent Payment,Rent/Housing
+TXN01305,2026-10-15,Lab Tests Medical Bill,168.66,Lab Tests,Healthcare
+TXN01137,2026-10-15,Nike Purchase,160.86,Nike,Shopping
+TXN00081,2026-10-16,Comcast Monthly Bill,202.36,Comcast,Utilities
+TXN01419,2026-10-16,Mortgage Payment,956.13,Home Depot,Rent/Housing
+TXN01154,2026-10-16,eBay Store Purchase,115.73,eBay,Shopping
+TXN00618,2026-10-16,Eye Doctor Medical Bill,94.75,Eye Doctor,Healthcare
+TXN00749,2026-10-16,Service Charge Transaction,19.49,Service Charge,Others
+TXN00660,2026-10-16,Metro Card Parking,23.44,Metro Card,Transportation
+TXN00132,2026-10-16,Car Wash Ride,33.08,Car Wash,Transportation
+TXN01166,2026-10-17,IKEA Purchase,109.38,IKEA,Shopping
+TXN01050,2026-10-17,Walgreens Medical Service,266.9,Walgreens,Healthcare
+TXN01043,2026-10-17,Hulu Membership,50.92,Hulu,Entertainment
+TXN00531,2026-10-17,Etsy Item,133.77,Etsy,Shopping
+TXN00304,2026-10-17,Adidas Shopping,169.25,Adidas,Shopping
+TXN00166,2026-10-17,Applebee's Order,73.47,Applebee's,Food & Dining
+TXN01177,2026-10-18,Dominos Order,105.06,Dominos,Food & Dining
+TXN01121,2026-10-18,Movie Theater Service,17.4,Movie Theater,Entertainment
+TXN01310,2026-10-18,Home Depot Item,241.76,Home Depot,Shopping
+TXN00511,2026-10-18,Service Charge Purchase,47.73,Service Charge,Others
+TXN00966,2026-10-19,Donation Payment,86.37,Donation,Others
+TXN00589,2026-10-19,Amazon Prime Ticket,69.16,Amazon Prime,Entertainment
+TXN00398,2026-10-19,Cash Withdrawal Transaction,49.7,Cash Withdrawal,Others
+TXN01091,2026-10-19,University Tuition Textbook,48.86,University Tuition,Education
+TXN00299,2026-10-19,BP Fuel,50.27,BP,Transportation
+TXN00909,2026-10-19,Khan Academy Tuition Payment,388.85,Khan Academy,Education
+TXN01104,2026-10-19,Lab Tests Healthcare,258.75,Lab Tests,Healthcare
+TXN00852,2026-10-20,Zara Item,92.17,Zara,Shopping
+TXN00569,2026-10-20,ComEd Electric Bill Payment,116.47,ComEd Electric,Utilities
+TXN01298,2026-10-20,PlayStation Network Service,22.81,PlayStation Network,Entertainment
+TXN00042,2026-10-20,Target Shopping,100.09,Target,Shopping
+TXN01338,2026-10-21,PlayStation Network Entertainment,126.55,PlayStation Network,Entertainment
+TXN00805,2026-10-21,Bank Fee Fee,98.38,Bank Fee,Others
+TXN00976,2026-10-21,Amazon Prime Entertainment,118.45,Amazon Prime,Entertainment
+TXN01395,2026-10-21,Sports Stadium Purchase,79.97,Sports Stadium,Entertainment
+TXN00229,2026-10-21,Apple Music Membership,100.27,Apple Music,Entertainment
+TXN01156,2026-10-22,BP Parking,31.15,BP,Transportation
+TXN01026,2026-10-22,Miscellaneous Payment,44.1,Miscellaneous,Others
+TXN00650,2026-10-22,Internet Bill Bill Payment,220.86,Internet Bill,Utilities
+TXN01102,2026-10-22,Game Store Ticket,142.42,Game Store,Entertainment
+TXN00449,2026-10-22,Comcast Monthly Bill,249.04,Comcast,Utilities
+TXN01430,2026-10-23,Chevron Fuel,47.96,Chevron,Transportation
+TXN00355,2026-10-23,Donation Purchase,70.24,Donation,Others
+TXN00743,2026-10-23,Udemy Tuition Payment,185.61,Udemy,Education
+TXN00237,2026-10-24,Sprint Subscription,70.3,Sprint,Utilities
+TXN00266,2026-10-24,Water Company Utility Payment,141.31,Water Company,Utilities
+TXN01186,2026-10-24,Donation Service,56.77,Donation,Others
+TXN00657,2026-10-24,Starbucks Food Purchase,142.88,Starbucks,Food & Dining
+TXN01450,2026-10-24,Macy's Item,174.92,Macy's,Shopping
+TXN01108,2026-10-25,Educational Platform Class Fee,432.97,Educational Platform,Education
+TXN01124,2026-10-25,Chipotle Dinner,26.0,Chipotle,Food & Dining
+TXN01161,2026-10-25,Eye Doctor Healthcare,271.92,Eye Doctor,Healthcare
+TXN00387,2026-10-25,Rent Payment,653.73,Furniture Store,Rent/Housing
+TXN00271,2026-10-25,Phone Bill Utility Payment,126.52,Phone Bill,Utilities
+TXN00671,2026-10-26,Service Charge Service,67.98,Service Charge,Others
+TXN00683,2026-10-26,eBay Store Purchase,123.86,eBay,Shopping
+TXN00201,2026-10-26,Gas Utility Service,109.43,Gas Utility,Utilities
+TXN00585,2026-10-26,Car Wash Ride,67.96,Car Wash,Transportation
+TXN00782,2026-10-26,HOA Payment Furniture,1962.17,HOA Payment,Rent/Housing
+TXN00714,2026-10-28,YouTube Premium Service,19.42,YouTube Premium,Entertainment
+TXN00905,2026-10-28,Charity Payment,73.41,Charity,Others
+TXN01266,2026-10-29,Zara Store Purchase,241.2,Zara,Shopping
+TXN00089,2026-10-29,Taco Bell Order,15.16,Taco Bell,Food & Dining
+TXN00421,2026-10-29,University Tuition Educational Material,287.61,University Tuition,Education
+TXN00986,2026-10-29,Miscellaneous Service,39.03,Miscellaneous,Others
+TXN00902,2026-10-29,Mortgage Payment,1007.95,Apartment Complex,Rent/Housing
+TXN00758,2026-10-30,Best Buy Online Purchase,218.76,Best Buy,Shopping
+TXN00044,2026-10-30,Best Buy Order,256.74,Best Buy,Shopping
+TXN00518,2026-10-30,Service Charge Fee,47.47,Service Charge,Others
+TXN01331,2026-10-30,Starbucks Meal,140.59,Starbucks,Food & Dining
+TXN00339,2026-10-30,Phone Bill Subscription,58.08,Phone Bill,Utilities
+TXN01226,2026-10-31,Verizon Monthly Bill,219.24,Verizon,Utilities
+TXN00814,2026-10-31,Textbook Store Educational Material,387.64,Textbook Store,Education
+TXN01340,2026-10-31,Dominos Food Purchase,132.79,Dominos,Food & Dining
+TXN00604,2026-10-31,IKEA Furniture,1792.73,IKEA,Rent/Housing
+TXN00524,2026-10-31,Sports Stadium Purchase,66.35,Sports Stadium,Entertainment
+TXN00113,2026-10-31,Textbook Store Tuition Payment,252.99,Textbook Store,Education
+TXN01471,2026-11-01,Local Pharmacy Medical Bill,236.9,Local Pharmacy,Healthcare
+TXN00600,2026-11-01,Exxon Parking,46.3,Exxon,Transportation
+TXN00067,2026-11-01,Local Restaurant Coffee,7.97,Local Restaurant,Food & Dining
+TXN00710,2026-11-01,Water Bill Monthly Bill,206.52,Water Bill,Utilities
+TXN00893,2026-11-02,Toll Road Transit Pass,57.5,Toll Road,Transportation
+TXN00138,2026-11-02,CVS Pharmacy Prescription,175.31,CVS Pharmacy,Healthcare
+TXN00910,2026-11-02,Mortgage Payment,1868.48,Property Management,Rent/Housing
+TXN00197,2026-11-03,Chevron Ride,53.03,Chevron,Transportation
+TXN00923,2026-11-03,City Transit Gas Purchase,14.83,City Transit,Transportation
+TXN01481,2026-11-03,Khan Academy Tuition Payment,412.98,Khan Academy,Education
+TXN00199,2026-11-04,Shell Transit Pass,72.27,Shell,Transportation
+TXN00764,2026-11-04,Eye Doctor Copay,253.74,Eye Doctor,Healthcare
+TXN00633,2026-11-05,Verizon Monthly Bill,222.14,Verizon,Utilities
+TXN00953,2026-11-05,Parking Garage Parking,18.9,Parking Garage,Transportation
+TXN01370,2026-11-05,Gift Shop Payment,92.16,Gift Shop,Others
+TXN01041,2026-11-05,Rent Payment Home Repair,1711.34,Rent Payment,Rent/Housing
+TXN00142,2026-11-06,Pet Store Transaction,49.26,Pet Store,Others
+TXN01072,2026-11-06,Taxi Service Transit Pass,46.01,Taxi Service,Transportation
+TXN00098,2026-11-06,Mortgage Company Home Maintenance,1963.78,Mortgage Company,Rent/Housing
+TXN00009,2026-11-06,Auto Service Transportation,61.69,Auto Service,Transportation
+TXN00063,2026-11-06,Dental Office Prescription,114.46,Dental Office,Healthcare
+TXN01437,2026-11-06,PlayStation Network Ticket,137.84,PlayStation Network,Entertainment
+TXN00369,2026-11-06,Hulu Subscription,84.96,Hulu,Entertainment
+TXN00687,2026-11-06,Walmart Store Purchase,132.16,Walmart,Shopping
+TXN01118,2026-11-06,Online Course Textbook,436.19,Online Course,Education
+TXN00847,2026-11-07,Coursera Textbook,228.17,Coursera,Education
+TXN00915,2026-11-07,Apple Store Shopping,98.86,Apple Store,Shopping
+TXN00469,2026-11-07,Medical Clinic Prescription,52.23,Medical Clinic,Healthcare
+TXN00080,2026-11-08,Urgent Care Copay,140.63,Urgent Care,Healthcare
+TXN00906,2026-11-08,Taco Bell Meal,113.28,Taco Bell,Food & Dining
+TXN00617,2026-11-08,Textbook Store Training,179.81,Textbook Store,Education
+TXN01400,2026-11-08,Lowe's Hardware Home Repair,1352.81,Lowe's Hardware,Rent/Housing
+TXN00637,2026-11-08,Online Course Tuition Payment,287.89,Online Course,Education
+TXN00667,2026-11-08,Metro Card Parking,76.52,Metro Card,Transportation
+TXN01366,2026-11-09,Xbox Live Subscription,44.54,Xbox Live,Entertainment
+TXN00521,2026-11-09,Water Company Utility Payment,95.12,Water Company,Utilities
+TXN01351,2026-11-10,Khan Academy Training,229.42,Khan Academy,Education
+TXN01069,2026-11-10,Comcast Utility Payment,180.18,Comcast,Utilities
+TXN00453,2026-11-10,Home Depot Item,51.12,Home Depot,Shopping
+TXN00448,2026-11-11,Exxon Toll,72.0,Exxon,Transportation
+TXN00656,2026-11-11,Water Company Utility Payment,116.17,Water Company,Utilities
+TXN00955,2026-11-11,PlayStation Network Entertainment,68.16,PlayStation Network,Entertainment
+TXN00673,2026-11-12,Eye Doctor Medical Bill,41.29,Eye Doctor,Healthcare
+TXN01319,2026-11-12,Lowe's Hardware Home Repair,1221.98,Lowe's Hardware,Rent/Housing
+TXN01218,2026-11-12,Parking Garage Ride,79.3,Parking Garage,Transportation
+TXN00991,2026-11-12,Health Insurance Medical Service,171.5,Health Insurance,Healthcare
+TXN00507,2026-11-13,Service Charge Service,41.9,Service Charge,Others
+TXN00594,2026-11-13,Charity Service,38.62,Charity,Others
+TXN01361,2026-11-13,Home Depot HOA Fee,1678.01,Home Depot,Rent/Housing
+TXN00256,2026-11-13,Rite Aid Prescription,94.51,Rite Aid,Healthcare
+TXN01071,2026-11-13,Textbook Store Textbook,88.78,Textbook Store,Education

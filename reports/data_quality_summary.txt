@@ -1,0 +1,28 @@
+============================================================
+DATASET QUALITY REPORT
+============================================================
+
+Overall Statistics:
+------------------------------------------------------------
+Total Records                 : 10000
+Unique Descriptions           : 3984
+Duplicate Rate (%)            : 60.160000000000004
+Missing Values                : 0
+Categories                    : 10
+Avg Description Length        : 17.8654
+Min Description Length        : 6
+Max Description Length        : 37
+
+
+Category Distribution:
+------------------------------------------------------------
+Food & Dining                      :  1,780 ( 17.8%)
+Transportation                     :  1,545 ( 15.4%)
+Shopping & Retail                  :  1,387 ( 13.9%)
+Utilities & Services               :  1,183 ( 11.8%)
+Entertainment & Recreation         :  1,169 ( 11.7%)
+Healthcare & Medical               :    870 (  8.7%)
+Financial Services                 :    788 (  7.9%)
+Income                             :    490 (  4.9%)
+Charity & Donations                :    407 (  4.1%)
+Government & Legal                 :    381 (  3.8%)

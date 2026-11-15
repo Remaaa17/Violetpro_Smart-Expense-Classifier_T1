@@ -1,4 +1,4 @@
-# 🚀 Push to GitHub - Instructions
+#  Push to GitHub - Instructions
 
 Your local Git repository is ready with 8 commits! Follow these steps to push it to GitHub:
 
@@ -12,12 +12,12 @@ Your local Git repository is ready with 8 commits! Follow these steps to push it
 4. Click **Add Repository**
 5. Click **Publish Repository** button
 6. Choose:
-   - ✅ Name: `Smart-Expense-Classifier`
-   - ✅ Description: "AI-powered transaction categorization using ML (VioletPro Internship 2026)"
-   - ❌ Keep this code private (uncheck for public repo)
+   -  Name: `Smart-Expense-Classifier`
+   -  Description: "AI-powered transaction categorization using ML (VioletPro Internship 2026)"
+   -  Keep this code private (uncheck for public repo)
 7. Click **Publish Repository**
 
-✅ Done! Your repo is now on GitHub.
+ Done! Your repo is now on GitHub.
 
 ---
 
@@ -76,50 +76,50 @@ gh repo create Smart-Expense-Classifier --public --source=. --push
 
 ---
 
-## ✅ What's Already in the Repository
+##  What's Already in the Repository
 
 ### Commits (8 total):
-1. ✅ Initial commit: Baseline model and Egyptian dataset
-2. ✅ Update project status with Egyptian dataset completion
-3. ✅ Add comprehensive Egyptian dataset documentation
-4. ✅ Add Egyptian dataset analysis script and visualization
-5. ✅ Clean up old datasets - keep only Egyptian dataset, notebooks, and models
-6. ✅ Add Arabic-only transaction dataset
-7. ✅ Complete ML pipeline: EDA, preprocessing, models, tuning, Streamlit demo
-8. ✅ Add comprehensive README and documentation
+1.  Initial commit: Baseline model and Egyptian dataset
+2.  Update project status with Egyptian dataset completion
+3.  Add comprehensive Egyptian dataset documentation
+4.  Add Egyptian dataset analysis script and visualization
+5.  Clean up old datasets - keep only Egyptian dataset, notebooks, and models
+6.  Add Arabic-only transaction dataset
+7.  Complete ML pipeline: EDA, preprocessing, models, tuning, Streamlit demo
+8.  Add comprehensive README and documentation
 
 ### Files Included:
-- ✅ Complete ML training pipeline
-- ✅ Streamlit demo app
-- ✅ Jupyter notebook
-- ✅ Trained models (97.5% accuracy)
-- ✅ Egyptian Arabic dataset (10K records)
-- ✅ Hugging Face full dataset (4.5M records)
-- ✅ All visualizations and reports
-- ✅ Requirements.txt
-- ✅ Comprehensive README
-- ✅ Documentation
+-  Complete ML training pipeline
+-  Streamlit demo app
+-  Jupyter notebook
+-  Trained models (97.5% accuracy)
+-  Egyptian Arabic dataset (10K records)
+-  Hugging Face full dataset (4.5M records)
+-  All visualizations and reports
+-  Requirements.txt
+-  Comprehensive README
+-  Documentation
 
 ---
 
-## 📁 Repository Structure
+##  Repository Structure
 
 ```
 Smart-Expense-Classifier/
-├── .git/                    # Git repository (already initialized)
-├── data/                    # Datasets
-├── models/                  # Trained ML models
-├── notebooks/               # Jupyter notebooks
-├── src/                     # Source code
-├── app/                     # Streamlit demo
-├── reports/                 # Visualizations
-├── requirements.txt         # Dependencies
-└── README.md               # Documentation
+ .git/                    # Git repository (already initialized)
+ data/                    # Datasets
+ models/                  # Trained ML models
+ notebooks/               # Jupyter notebooks
+ src/                     # Source code
+ app/                     # Streamlit demo
+ reports/                 # Visualizations
+ requirements.txt         # Dependencies
+ README.md               # Documentation
 ```
 
 ---
 
-## ⚠️ Important Notes
+##  Important Notes
 
 ### Large Files
 
@@ -148,9 +148,9 @@ git commit -m "Track CSV files with Git LFS"
 ### Sensitive Data
 
 Make sure no sensitive data is committed:
-- ❌ API keys
-- ❌ Database passwords
-- ❌ Personal information
+-  API keys
+-  Database passwords
+-  Personal information
 
 Check `.gitignore` includes:
 ```
@@ -161,7 +161,7 @@ Check `.gitignore` includes:
 
 ---
 
-## 🔐 GitHub Authentication
+##  GitHub Authentication
 
 ### Personal Access Token (PAT)
 
@@ -195,7 +195,7 @@ git remote set-url origin git@github.com:YOUR_USERNAME/Smart-Expense-Classifier.
 
 ---
 
-## 📊 After Pushing to GitHub
+##  After Pushing to GitHub
 
 ### Add Repository Badges
 
@@ -230,19 +230,19 @@ Suggested topics:
 
 ---
 
-## 🎯 Next Steps After Pushing
+##  Next Steps After Pushing
 
-1. ✅ Add project description on GitHub
-2. ✅ Add topics/tags
-3. ✅ Create releases (v1.0.0)
-4. ✅ Add GitHub Actions (CI/CD)
-5. ✅ Enable issues and discussions
-6. ✅ Add contributors
-7. ✅ Create project wiki
+1.  Add project description on GitHub
+2.  Add topics/tags
+3.  Create releases (v1.0.0)
+4.  Add GitHub Actions (CI/CD)
+5.  Enable issues and discussions
+6.  Add contributors
+7.  Create project wiki
 
 ---
 
-## 📧 Share Your Repository
+##  Share Your Repository
 
 Once pushed, share the link:
 
@@ -251,14 +251,14 @@ https://github.com/YOUR_USERNAME/Smart-Expense-Classifier
 ```
 
 Add this to your:
-- ✅ Resume/CV
-- ✅ LinkedIn profile
-- ✅ Portfolio website
-- ✅ VioletPro internship report
+-  Resume/CV
+-  LinkedIn profile
+-  Portfolio website
+-  VioletPro internship report
 
 ---
 
-## 🐛 Troubleshooting
+##  Troubleshooting
 
 ### "Remote already exists"
 ```bash
@@ -289,7 +289,7 @@ git push -u origin master
 
 ---
 
-## ✅ Verification Checklist
+##  Verification Checklist
 
 After pushing, verify on GitHub:
 
@@ -309,4 +309,4 @@ After pushing, verify on GitHub:
 3. Set up Git LFS
 4. Generate the push commands for you
 
-**Ready to push? Choose Option 1, 2, or 3 above!** 🚀
+**Ready to push? Choose Option 1, 2, or 3 above!** 

@@ -1,4 +1,4 @@
-# 🇪🇬 Egyptian Arabic Financial Transaction Dataset
+#  Egyptian Arabic Financial Transaction Dataset
 
 ## Overview
 
@@ -6,7 +6,7 @@ A comprehensive synthetic dataset of 10,000 financial transactions featuring Egy
 
 ---
 
-## 📊 Dataset Specifications
+##  Dataset Specifications
 
 ### Core Characteristics
 - **Total Records:** 10,000
@@ -26,7 +26,7 @@ currency (string): "EGP" (fixed)
 
 ---
 
-## 🎯 Categories (10 Total)
+##  Categories (10 Total)
 
 1. **Food & Dining** (17.8%) - 1,780 records
 2. **Transportation** (15.4%) - 1,545 records
@@ -43,7 +43,7 @@ currency (string): "EGP" (fixed)
 
 ---
 
-## 🗣️ Language Style Variations
+##  Language Style Variations
 
 ### 1. Modern Standard Arabic (MSA)
 - Formal, classical Arabic
@@ -69,7 +69,7 @@ currency (string): "EGP" (fixed)
 
 ---
 
-## 🎨 Quality Distribution
+##  Quality Distribution
 
 The dataset includes controlled imperfections to simulate real-world data:
 
@@ -91,7 +91,7 @@ The dataset includes controlled imperfections to simulate real-world data:
 
 ---
 
-## 📁 Generated Files
+##  Generated Files
 
 ### Main Dataset Files
 1. **`arabic_transactions_clean.csv`** - Full 10K dataset (CSV format)
@@ -112,7 +112,7 @@ The dataset includes controlled imperfections to simulate real-world data:
 
 ---
 
-## 🔬 Label Noise Experiments
+##  Label Noise Experiments
 
 To test model robustness, two noisy versions were created:
 
@@ -130,7 +130,7 @@ To test model robustness, two noisy versions were created:
 
 ---
 
-## 📝 Sample Transactions
+##  Sample Transactions
 
 ### Food & Dining
 ```
@@ -177,7 +177,7 @@ Gas mobile recharge
 
 ---
 
-## 🛠️ Generation Technical Details
+##  Generation Technical Details
 
 ### Tools Used
 - **Language:** Python 3.14
@@ -200,7 +200,7 @@ Gas mobile recharge
 
 ---
 
-## 🎯 Use Cases
+##  Use Cases
 
 ### 1. Machine Learning Training
 - Train Arabic text classification models
@@ -224,7 +224,7 @@ Gas mobile recharge
 
 ---
 
-## 📊 Quality Metrics
+##  Quality Metrics
 
 ### Diversity
 - **Language Styles:** 5 distinct variations
@@ -246,7 +246,7 @@ Gas mobile recharge
 
 ---
 
-## 🚀 Usage Examples
+##  Usage Examples
 
 ### Load Dataset
 ```python
@@ -314,7 +314,7 @@ print(f"Accuracy with 5% noise: {accuracy_noisy:.2%}")
 
 ---
 
-## 🔮 Future Enhancements
+##  Future Enhancements
 
 ### Potential Additions
 - [ ] Add transaction amounts (numeric values)
@@ -340,22 +340,22 @@ print(f"Accuracy with 5% noise: {accuracy_noisy:.2%}")
 
 ---
 
-## ✅ Validation
+##  Validation
 
 The dataset has been validated for:
-- ✅ Schema compliance (4 columns, correct types)
-- ✅ No missing values
-- ✅ Valid UTF-8 encoding
-- ✅ Realistic category distribution
-- ✅ Proper train/val/test splits
-- ✅ Label noise applied correctly
-- ✅ Linguistic diversity present
-- ✅ Quality variations implemented
-- ✅ File formats (CSV, Parquet) working
+-  Schema compliance (4 columns, correct types)
+-  No missing values
+-  Valid UTF-8 encoding
+-  Realistic category distribution
+-  Proper train/val/test splits
+-  Label noise applied correctly
+-  Linguistic diversity present
+-  Quality variations implemented
+-  File formats (CSV, Parquet) working
 
 ---
 
-## 📚 References
+##  References
 
 ### Linguistic Resources
 - Egyptian Arabic dialect patterns
@@ -369,17 +369,17 @@ The dataset has been validated for:
 
 ---
 
-## 📞 Notes
+##  Notes
 
 **Created:** November 12, 2026  
 **Version:** 1.0  
 **Random Seed:** 42 (reproducible)  
 **Generator:** `generate_egyptian_dataset.py`  
-**Status:** ✅ Production Ready
+**Status:**  Production Ready
 
 ---
 
-## 🎓 Academic Use
+##  Academic Use
 
 This dataset is suitable for:
 - MSc/PhD research in Arabic NLP
@@ -398,7 +398,7 @@ VioletPro Internship - Lebanon
 
 ---
 
-## 🌟 Key Strengths
+##  Key Strengths
 
 1. **Linguistic Authenticity:** Real Egyptian Arabic patterns
 2. **Quality Control:** Systematic noise and variation introduction
@@ -410,4 +410,4 @@ VioletPro Internship - Lebanon
 
 ---
 
-**🎯 Ready for Model Training and Experimentation!**
+** Ready for Model Training and Experimentation!**

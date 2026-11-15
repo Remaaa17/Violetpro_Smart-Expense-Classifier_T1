@@ -1,4 +1,4 @@
-# 💰 Smart Expense Classifier
+#  Smart Expense Classifier
 
 An AI-powered transaction categorization system using Machine Learning to automatically classify financial transactions into 10 expense categories.
 
@@ -6,22 +6,22 @@ An AI-powered transaction categorization system using Machine Learning to automa
 
 ---
 
-## 🎯 Project Overview
+##  Project Overview
 
 This project implements a complete machine learning pipeline for transaction categorization, achieving **97.5% accuracy** on the Hugging Face transaction dataset (4.5M records).
 
 ### Key Features
 
-- ✅ **Complete ML Pipeline**: EDA → Preprocessing → Baseline → Model Comparison → Tuning
-- ✅ **10 Categories**: Food, Transport, Shopping, Healthcare, Utilities, Financial, Income, Entertainment, Government, Charity
-- ✅ **4 ML Models**: Logistic Regression, Naive Bayes, Linear SVM, Random Forest
-- ✅ **Hyperparameter Tuning**: GridSearchCV optimization
-- ✅ **Interactive Demo**: Streamlit web application
-- ✅ **Arabic Support**: Egyptian Arabic dataset (10K records)
+-  **Complete ML Pipeline**: EDA → Preprocessing → Baseline → Model Comparison → Tuning
+-  **10 Categories**: Food, Transport, Shopping, Healthcare, Utilities, Financial, Income, Entertainment, Government, Charity
+-  **4 ML Models**: Logistic Regression, Naive Bayes, Linear SVM, Random Forest
+-  **Hyperparameter Tuning**: GridSearchCV optimization
+-  **Interactive Demo**: Streamlit web application
+-  **Arabic Support**: Egyptian Arabic dataset (10K records)
 
 ---
 
-## 📊 Results Summary
+##  Results Summary
 
 | Model | Test Accuracy | Precision | Recall | F1-Score |
 |-------|--------------|-----------|--------|----------|
@@ -34,7 +34,7 @@ This project implements a complete machine learning pipeline for transaction cat
 
 ---
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### 1. Install Dependencies
 
@@ -83,47 +83,47 @@ Open browser at `http://localhost:8501`
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 Smart-Expense-Classifier/
-├── data/                                    # Datasets
-│   ├── huggingface_full_dataset.csv         # 4.5M transactions
-│   ├── huggingface_sample_10k.csv           # 10K sample
-│   ├── arabic_only_transactions.csv         # Egyptian Arabic (10K)
-│   └── README.md                            # Data documentation
-│
-├── notebooks/                               # Jupyter notebooks
-│   └── 01_Complete_ML_Pipeline.ipynb        # Full pipeline notebook
-│
-├── src/                                     # Source code
-│   ├── train_complete_pipeline.py           # Main training script
-│   └── predict.py                           # Prediction function
-│
-├── models/                                  # Trained models
-│   ├── final_expense_classifier.joblib      # Best model
-│   ├── baseline_model_tfidf_logreg.joblib   # Baseline
-│   ├── best_model_tuned.joblib              # Tuned model
-│   └── model_metadata.json                  # Model info
-│
-├── reports/                                 # Visualizations & reports
-│   ├── 01_eda_analysis.png                  # EDA charts
-│   ├── 02_model_comparison.png              # Model comparison
-│   ├── 03_final_confusion_matrix.png        # Confusion matrix
-│   ├── model_comparison_results.csv         # Detailed metrics
-│   └── data_quality_summary.txt             # Dataset stats
-│
-├── app/                                     # Streamlit demo
-│   └── streamlit_app.py                     # Web application
-│
-├── requirements.txt                         # Python dependencies
-├── setup_environment.py                     # Environment setup script
-└── README.md                                # This file
+ data/                                    # Datasets
+    huggingface_full_dataset.csv         # 4.5M transactions
+    huggingface_sample_10k.csv           # 10K sample
+    arabic_only_transactions.csv         # Egyptian Arabic (10K)
+    README.md                            # Data documentation
+
+ notebooks/                               # Jupyter notebooks
+    01_Complete_ML_Pipeline.ipynb        # Full pipeline notebook
+
+ src/                                     # Source code
+    train_complete_pipeline.py           # Main training script
+    predict.py                           # Prediction function
+
+ models/                                  # Trained models
+    final_expense_classifier.joblib      # Best model
+    baseline_model_tfidf_logreg.joblib   # Baseline
+    best_model_tuned.joblib              # Tuned model
+    model_metadata.json                  # Model info
+
+ reports/                                 # Visualizations & reports
+    01_eda_analysis.png                  # EDA charts
+    02_model_comparison.png              # Model comparison
+    03_final_confusion_matrix.png        # Confusion matrix
+    model_comparison_results.csv         # Detailed metrics
+    data_quality_summary.txt             # Dataset stats
+
+ app/                                     # Streamlit demo
+    streamlit_app.py                     # Web application
+
+ requirements.txt                         # Python dependencies
+ setup_environment.py                     # Environment setup script
+ README.md                                # This file
 ```
 
 ---
 
-## 🔬 Technical Implementation
+##  Technical Implementation
 
 ### 1. Exploratory Data Analysis (EDA)
 
@@ -205,7 +205,7 @@ param_grid = {
 
 ---
 
-## 💻 Usage Examples
+##  Usage Examples
 
 ### Command Line Prediction
 
@@ -251,7 +251,7 @@ df.to_csv('predictions.csv', index=False)
 
 ---
 
-## 📈 Model Performance
+##  Model Performance
 
 ### Confusion Matrix
 
@@ -278,7 +278,7 @@ The model shows strong performance across all categories with minimal confusion:
 
 ---
 
-## 🌍 Arabic Dataset
+##  Arabic Dataset
 
 A custom Egyptian Arabic dataset (10K records) was generated with:
 
@@ -295,7 +295,7 @@ A custom Egyptian Arabic dataset (10K records) was generated with:
 
 ---
 
-## 📚 Dataset Information
+##  Dataset Information
 
 ### Hugging Face Dataset
 
@@ -316,7 +316,7 @@ Doctor appointment,Healthcare & Medical,USA,USD
 
 ---
 
-## 🛠️ Development
+##  Development
 
 ### Requirements
 
@@ -354,7 +354,7 @@ df = load_data(sample_size=None)  # Load all records
 
 ---
 
-## 📊 Reports & Visualizations
+##  Reports & Visualizations
 
 All reports are automatically generated in `reports/`:
 
@@ -380,7 +380,7 @@ All reports are automatically generated in `reports/`:
 
 ---
 
-## 🎯 Future Improvements
+##  Future Improvements
 
 1. **Model Enhancements**
    - Deep Learning: LSTM, BERT, Transformers
@@ -410,13 +410,13 @@ All reports are automatically generated in `reports/`:
 
 ---
 
-## 📝 License
+##  License
 
 This project was developed as part of the VioletPro internship program (2026).
 
 ---
 
-## 👤 Author
+##  Author
 
 **VioletPro Internship Program**  
 **Location**: Tyre, Lebanon  
@@ -424,7 +424,7 @@ This project was developed as part of the VioletPro internship program (2026).
 
 ---
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - **Hugging Face** for the transaction dataset
 - **scikit-learn** for ML tools
@@ -433,7 +433,7 @@ This project was developed as part of the VioletPro internship program (2026).
 
 ---
 
-## 📞 Support
+##  Support
 
 For questions or issues:
 1. Check the documentation in `reports/`
@@ -442,7 +442,7 @@ For questions or issues:
 
 ---
 
-## ✅ Project Checklist
+##  Project Checklist
 
 - [x] EDA with class distribution, text length, common words
 - [x] Text preprocessing (lowercase, punctuation, stop words)
@@ -456,7 +456,7 @@ For questions or issues:
 - [x] Complete documentation
 - [x] Git version control
 
-**Status**: ✅ **Complete** - Ready for presentation!
+**Status**:  **Complete** - Ready for presentation!
 
 ---
 

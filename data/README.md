@@ -1,328 +1,286 @@
 # Dataset Directory
 
-This directory contains all transaction datasets used for the Smart Expense Classifier project.
+This directory contains all transaction datasets for the Smart Expense Classifier project.
+
+**Structure**:
+- `raw/` - Original, unprocessed datasets
+- `processed/` - Preprocessed and split datasets (train/val/test)
 
 ---
 
-## 📁 Dataset Files Overview
+##  Folder Structure
 
-### 1. Hugging Face Transaction Dataset
+```
+data/
+ raw/                          # Original datasets
+    huggingface_full_dataset.csv
+    huggingface_sample_10k.csv
+    arabic_only_transactions.csv
+    arabic_only_transactions.parquet
+    arabic_transactions_clean.csv
+    arabic_transactions_clean.parquet
 
-#### `huggingface_full_dataset.csv` 
+ processed/                    # Preprocessed & split datasets
+    arabic_only_train.csv
+    arabic_only_validation.csv
+    arabic_only_test.csv
+    arabic_transactions_train.csv
+    arabic_transactions_validation.csv
+    arabic_transactions_test.csv
+    arabic_transactions_noisy_2pct.csv
+    arabic_transactions_noisy_5pct.csv
+
+ README.md                     # This file
+```
+
+---
+
+##  RAW Datasets (`data/raw/`)
+
+### 1. `huggingface_full_dataset.csv`
+
 **Size**: 4,501,043 records (211 MB)  
 **Source**: [Hugging Face - mitulshah/transaction-categorization](https://huggingface.co/datasets/mitulshah/transaction-categorization)  
-**Purpose**: Full production dataset for training robust models  
-**Content**: 
-- Global transactions from multiple countries
-- Multiple currencies (USD, EUR, GBP, AUD, etc.)
-- Real-world transaction descriptions
+**Purpose**: Full production dataset for maximum accuracy  
+
+**Description**:
+- Real-world transaction data
+- Global coverage (multiple countries & currencies)
 - 10 expense/income categories
+- Balanced distribution
 
 **Columns**:
-- `transaction_description` (string): Transaction text (e.g., "Starbucks Coffee")
-- `category` (string): One of 10 categories
-- `country` (string): Country code
-- `currency` (string): Currency code
+- `transaction_description` - Transaction text
+- `category` - Expense category
+- `country` - Country code
+- `currency` - Currency code
 
 **Statistics**:
-- Average description length: 19 characters
-- Average words per transaction: 3.1
-- Balanced distribution across categories
+- Avg description length: 19 characters
+- Avg words: 3.1 per transaction
 - No missing values
+- Training time: 30-45 minutes
 
-**Use Case**: Train final production model with maximum accuracy
+**When to use**: Final production model, maximum performance
 
 ---
 
-#### `huggingface_sample_10k.csv`
+### 2. `huggingface_sample_10k.csv`
+
 **Size**: 10,000 records (470 KB)  
 **Source**: Random sample from full HF dataset  
-**Purpose**: Quick experiments and testing  
-**Content**: Representative sample maintaining category distribution
+**Purpose**: Quick experiments and development  
 
-**Why use this?**
-- ✅ Fast training (seconds vs minutes)
-- ✅ Perfect for development/testing
-- ✅ Same structure as full dataset
-- ✅ Good for demos and presentations
+**Description**:
+- Representative sample maintaining category balance
+- Same structure as full dataset
+- Fast training for testing
 
 **Statistics**:
 - Training time: ~10 seconds
-- Accuracy: ~97% (similar to full dataset)
+- Expected accuracy: ~97%
 - Memory usage: <100 MB
+
+**When to use**: 
+-  Development and testing
+-  Quick experiments
+-  Demos and presentations
+-  Learning the pipeline
 
 ---
 
-### 2. Egyptian Arabic Dataset (Custom Generated) ⭐
+### 3. `arabic_only_transactions.csv` 
 
-#### `arabic_only_transactions.csv`
 **Size**: 10,000 records (580 KB)  
 **Source**: Custom synthetic data generator  
-**Purpose**: Test multilingual NLP capabilities with Arabic text  
-**Language**: 100% Arabic - No English or mixed languages
+**Purpose**: Multilingual NLP with pure Arabic  
 
-**Content**:
+**Description**:
+- 100% Arabic text (no English or mixed)
 - Modern Standard Arabic (MSA): 45%
 - Egyptian Colloquial Arabic: 55%
-- Realistic imperfections (typos, incomplete text, ambiguous cases)
-- Same 10 categories as English dataset
+- Real Egyptian merchant names
+- Same 10 categories
 
 **Special Features**:
-- Real Egyptian merchant names (البقالة, المطعم, الصيدلية)
-- Authentic Arabic transaction patterns
-- Quality variations: 55% clean, 45% realistic noise
-- Suitable for Arabic NLP research
+- Authentic Arabic patterns
+- Realistic imperfections (typos, incomplete text)
+- Quality variations: 55% clean, 45% noisy
+- Merchant names: البقالة، المطعم، الصيدلية
 
 **Statistics**:
 - Unique descriptions: 3,633 (36%)
-- Duplication rate: 63.7% (realistic for recurring transactions)
-- Average length: 16.3 characters
+- Duplication rate: 63.7% (realistic)
+- Avg length: 16.3 characters
 - No missing values
 
-**Use Case**: 
-- Multilingual model training
-- Arabic text classification research
-- Cross-language performance testing
-- Egyptian market applications
+**When to use**:
+-  Arabic NLP research
+-  Multilingual model testing
+-  Egyptian market applications
+-  Cross-language evaluation
 
 ---
 
-#### `arabic_only_transactions.parquet`
+### 4. `arabic_only_transactions.parquet`
+
 **Size**: 70 KB (compressed)  
-**Purpose**: Same data as CSV but in Parquet format  
-**Benefits**:
-- ✅ 8x smaller file size
-- ✅ Faster loading (2-3x speed)
-- ✅ Better memory efficiency
-- ✅ Preserves data types
+**Purpose**: Same as CSV but compressed format  
 
-**When to use**: For production pipelines and large-scale processing
+**Benefits**:
+- 8x smaller file size
+- 2-3x faster loading
+- Better memory efficiency
+- Preserves data types
+
+**When to use**: Production pipelines, large-scale processing
 
 ---
 
-### 3. Pre-Split Arabic Training Sets
+### 5. `arabic_transactions_clean.csv` (Legacy)
 
-⚠️ **IMPORTANT**: These splits are created **AFTER preprocessing**, not before!
+**Size**: 10,000 records (547 KB)  
+**Status**:  Legacy - Use `arabic_only_transactions.csv` instead  
+
+**Description**:
+- Mixed language dataset
+- Contains Arabic, English, and Arabizi
+- Language distribution:
+  - MSA: 25%
+  - Egyptian Colloquial: 30%
+  - Mixed Arabic-English: 20%
+  - Arabizi: 15%
+  - English: 10%
+
+**Why not use?**:
+- Language mixing complicates analysis
+- Defeats "Arabic-only" purpose
+- Better alternatives available
+
+---
+
+### 6. `arabic_transactions_clean.parquet` (Legacy)
+
+**Size**: 70 KB  
+**Purpose**: Compressed version of mixed-language dataset  
+**Status**: Legacy - use pure Arabic or English instead
+
+---
+
+##  PROCESSED Datasets (`data/processed/`)
+
+ **IMPORTANT**: All processed files are created **AFTER** preprocessing the raw data!
+
+**Processing Steps Applied**:
+1. Lowercase conversion
+2. Punctuation removal
+3. Number removal
+4. Extra space removal
+5. Then split into train/val/test
+
+---
+
+### Arabic-Only Splits (Primary)
 
 #### `arabic_only_train.csv`
 **Size**: 7,000 records (400 KB) - 70%  
 **Purpose**: Model training  
-**Details**: 
-- Preprocessed and ready for TF-IDF
-- Stratified split (maintains category balance)
-- Used for fitting the model
+**Details**: Preprocessed, stratified split, ready for TF-IDF
 
 #### `arabic_only_validation.csv`
 **Size**: 1,500 records (90 KB) - 15%  
-**Purpose**: Hyperparameter tuning and model selection  
-**Details**:
-- Separate from training data
-- Used during GridSearchCV
-- Helps prevent overfitting
+**Purpose**: Hyperparameter tuning  
+**Details**: Used during GridSearchCV, separate from training
 
 #### `arabic_only_test.csv`
 **Size**: 1,500 records (90 KB) - 15%  
 **Purpose**: Final evaluation only  
-**Details**:
-- Never used during training
-- Final performance metric
-- Reports final accuracy/F1
-
-**Split Method**:
-```python
-# Data is preprocessed FIRST
-df['processed'] = df['description'].apply(preprocess_text)
-
-# THEN shuffled and split with stratification
-train: 70% (7,000 records)
-val:   15% (1,500 records)
-test:  15% (1,500 records)
-```
+**Details**: Never used during training, reports final metrics
 
 ---
 
-### 4. Old Mixed-Language Dataset (Legacy)
+### Mixed-Language Splits (Legacy)
 
-#### `arabic_transactions_clean.csv`
-**Size**: 10,000 records (547 KB)  
-**Status**: ⚠️ Legacy - Use `arabic_only_transactions.csv` instead  
-**Content**: Mixed Arabic, English, and Arabizi (Franco-Arabic)
+#### `arabic_transactions_train.csv`
+**Size**: 2,788 records (155 KB) - 70%  
+**Status**: Legacy  
+**Note**: From old mixed-language dataset
 
-**Language Mix**:
-- Modern Standard Arabic: 25%
-- Egyptian Colloquial: 30%
-- Mixed Arabic-English: 20%
-- Arabizi (Franco-Arabic): 15%
-- Pure English: 10%
+#### `arabic_transactions_validation.csv`
+**Size**: 597 records (33 KB) - 15%  
+**Status**: Legacy
 
-**Why not use this?**
-- Contains English which defeats the "Arabic-only" purpose
-- Code-switching makes analysis complex
-- Better to use pure Arabic or pure English
-
-**Pre-split versions** (also legacy):
-- `arabic_transactions_train.csv` (2,788 records)
-- `arabic_transactions_validation.csv` (597 records)
-- `arabic_transactions_test.csv` (599 records)
-- `arabic_transactions_noisy_2pct.csv` (with 2% label noise)
-- `arabic_transactions_noisy_5pct.csv` (with 5% label noise)
-- `arabic_transactions_clean.parquet` (compressed)
+#### `arabic_transactions_test.csv`
+**Size**: 599 records (33 KB) - 15%  
+**Status**: Legacy
 
 ---
 
-## 🎯 Which Dataset to Use?
+### Label Noise Experiments
 
-### For Learning & Development
-✅ **Use**: `huggingface_sample_10k.csv`  
-**Why**: Fast, representative, perfect for experiments
+#### `arabic_transactions_noisy_2pct.csv`
+**Size**: 2,788 records (204 KB)  
+**Purpose**: Test model robustness  
+**Details**: Training data with 2% corrupted labels (55 errors)
 
-### For Production Model
-✅ **Use**: `huggingface_full_dataset.csv`  
-**Why**: Maximum accuracy, real-world performance
+#### `arabic_transactions_noisy_5pct.csv`
+**Size**: 2,788 records (204 KB)  
+**Purpose**: Test model robustness  
+**Details**: Training data with 5% corrupted labels (139 errors)
 
-### For Arabic/Multilingual
-✅ **Use**: `arabic_only_transactions.csv`  
-**Why**: Pure Arabic, clean separation from English
-
-### For Quick Testing
-✅ **Use**: Pre-split files (`train.csv`, `val.csv`, `test.csv`)  
-**Why**: Ready to use, no splitting needed
+**Use Case**: Evaluate how well the model handles noisy/incorrect labels
 
 ---
 
-## 📊 Data Schema (All Datasets)
+##  Correct Workflow: Preprocess THEN Split
 
-All CSV files follow this structure:
-
-| Column | Type | Description | Example |
-|--------|------|-------------|---------|
-| `transaction_description` | string | Transaction text | "Starbucks Coffee" |
-| `category` | string | Expense category | "Food & Dining" |
-| `country` | string | Country code | "Egypt" |
-| `currency` | string | Currency code | "EGP" |
-
----
-
-## 🔄 Data Splitting Strategy
-
-**IMPORTANT**: Split happens **AFTER** preprocessing, not before!
-
-### ❌ Wrong Way (Split First):
+###  WRONG: Split First
 ```python
 # DON'T DO THIS
-X_train, X_test = train_test_split(df)  # Split raw data
-X_train_processed = preprocess(X_train)  # Process separately
-X_test_processed = preprocess(X_test)    # Different preprocessing!
+df = pd.read_csv('data/raw/huggingface_sample_10k.csv')
+X_train, X_test = train_test_split(df)  # Split raw
+X_train['processed'] = preprocess(X_train)  # Separate preprocessing
+X_test['processed'] = preprocess(X_test)    # Different processing!
 ```
 
-### ✅ Right Way (Preprocess First):
+###  CORRECT: Preprocess First
 ```python
 # DO THIS
-df['processed'] = df['description'].apply(preprocess)  # Process all data together
+df = pd.read_csv('data/raw/huggingface_sample_10k.csv')
+
+# 1. Preprocess ALL data together
+df['processed'] = df['transaction_description'].apply(preprocess_text)
+
+# 2. THEN split
 X = df['processed']
 y = df['category']
-X_train, X_test, y_train, y_test = train_test_split(X, y)  # Then split
+X_train, X_test, y_train, y_test = train_test_split(X, y, random_state=42)
+
+# Now ready for training
 ```
 
 **Why?**
-- Ensures consistent preprocessing across all sets
-- Prevents data leakage
-- Same tokenization and vocabulary
-- Reproducible results
+-  Consistent preprocessing across all sets
+-  No data leakage
+-  Same vocabulary and tokenization
+-  Reproducible results
 
 ---
 
-## 📈 Dataset Statistics Comparison
+##  Usage Examples
 
-| Dataset | Records | Size | Avg Length | Unique Desc | Training Time |
-|---------|---------|------|------------|-------------|---------------|
-| HF Full | 4.5M | 211 MB | 19 chars | ~3M | 30-45 min |
-| HF Sample | 10K | 470 KB | 19 chars | ~8K | 10-15 sec |
-| Arabic Only | 10K | 580 KB | 16 chars | 3.6K | 10-15 sec |
-| Arabic Mixed | 10K | 547 KB | 18 chars | 3.9K | 10-15 sec |
-
----
-
-## 💾 Loading Data Examples
-
-### Load Full Dataset
-```python
-import pandas as pd
-
-# English dataset
-df = pd.read_csv('data/huggingface_full_dataset.csv')
-print(f"Loaded {len(df):,} transactions")
-```
-
-### Load Sample
-```python
-# Quick experiments
-df = pd.read_csv('data/huggingface_sample_10k.csv')
-```
-
-### Load Arabic
-```python
-# Arabic-only dataset
-df = pd.read_csv('data/arabic_only_transactions.csv')
-
-# Or use Parquet (faster)
-df = pd.read_parquet('data/arabic_only_transactions.parquet')
-```
-
-### Load Pre-Split Data
-```python
-# Load training set
-train_df = pd.read_csv('data/arabic_only_train.csv')
-val_df = pd.read_csv('data/arabic_only_validation.csv')
-test_df = pd.read_csv('data/arabic_only_test.csv')
-
-print(f"Train: {len(train_df):,}")
-print(f"Val: {len(val_df):,}")
-print(f"Test: {len(test_df):,}")
-```
-
----
-
-## 🔍 Data Quality Notes
-
-### Hugging Face Dataset
-- ✅ High quality, real transactions
-- ✅ Balanced categories
-- ✅ No missing values
-- ✅ Global coverage
-
-### Arabic Datasets
-- ✅ Realistic language patterns
-- ✅ Controlled quality variations
-- ✅ Category balance maintained
-- ⚠️ Synthetic (not real transactions)
-
----
-
-## ⚙️ Preprocessing Pipeline
-
-**Correct Order**:
-
-1. **Load raw data**
-2. **Preprocess ALL data together**
-   - Lowercase
-   - Remove punctuation
-   - Remove numbers
-   - Remove extra spaces
-3. **THEN split into train/val/test**
-4. **Apply TF-IDF on training set**
-5. **Transform val/test using same TF-IDF**
+### Load Raw Data for Training
 
 ```python
-# Example: Correct preprocessing workflow
 import pandas as pd
 from sklearn.model_selection import train_test_split
 
-# 1. Load
-df = pd.read_csv('data/huggingface_sample_10k.csv')
+# Load raw data
+df = pd.read_csv('data/raw/huggingface_sample_10k.csv')
 
-# 2. Preprocess ALL data first
+# Preprocess
 def preprocess_text(text):
+    import re
     text = str(text).lower()
     text = re.sub(r'[^a-z\s]', ' ', text)
     text = ' '.join(text.split())
@@ -330,40 +288,14 @@ def preprocess_text(text):
 
 df['processed'] = df['transaction_description'].apply(preprocess_text)
 
-# 3. NOW split (after preprocessing)
-X = df['processed']
-y = df['category']
-X_train, X_temp, y_train, y_temp = train_test_split(
-    X, y, test_size=0.3, random_state=42, stratify=y
-)
-X_val, X_test, y_val, y_test = train_test_split(
-    X_temp, y_temp, test_size=0.5, random_state=42, stratify=y_temp
-)
-
-# 4. Now ready for TF-IDF and training
-```
-
----
-
-## 🚀 Quick Start Examples
-
-### Example 1: Train on English Sample
-```python
-# Load
-df = pd.read_csv('data/huggingface_sample_10k.csv')
-
-# Preprocess ALL data first
-df['processed'] = df['transaction_description'].apply(preprocess_text)
-
-# Then split
-from sklearn.model_selection import train_test_split
+# Split
 X = df['processed']
 y = df['category']
 X_train, X_test, y_train, y_test = train_test_split(
     X, y, test_size=0.3, random_state=42, stratify=y
 )
 
-# Now train
+# Train
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.linear_model import LogisticRegression
 from sklearn.pipeline import Pipeline
@@ -375,79 +307,193 @@ pipeline = Pipeline([
 pipeline.fit(X_train, y_train)
 ```
 
-### Example 2: Train on Arabic
+---
+
+### Load Pre-Split Processed Data
+
 ```python
-# Load Arabic
-df = pd.read_csv('data/arabic_only_transactions.csv')
-
-# Same process: preprocess first, then split
-df['processed'] = df['transaction_description'].apply(preprocess_text)
-X = df['processed']
-y = df['category']
-X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.3, random_state=42)
-
-# Train
-pipeline.fit(X_train, y_train)
-```
-
-### Example 3: Use Pre-Split (Already Preprocessed)
-```python
-# If data is already split and preprocessed
-train_df = pd.read_csv('data/arabic_only_train.csv')
-test_df = pd.read_csv('data/arabic_only_test.csv')
+# If you want to use already split data
+train_df = pd.read_csv('data/processed/arabic_only_train.csv')
+val_df = pd.read_csv('data/processed/arabic_only_validation.csv')
+test_df = pd.read_csv('data/processed/arabic_only_test.csv')
 
 X_train = train_df['transaction_description']
 y_train = train_df['category']
+X_val = val_df['transaction_description']
+y_val = val_df['category']
 X_test = test_df['transaction_description']
 y_test = test_df['category']
 
-# Ready to train!
-pipeline.fit(X_train, y_train)
+# Note: These are already preprocessed
+# Ready to train directly
 ```
 
 ---
 
-## 📝 Data Generation Scripts
+### Load Arabic Dataset
 
-If you want to regenerate the Arabic datasets:
+```python
+# CSV format
+df = pd.read_csv('data/raw/arabic_only_transactions.csv')
+
+# Or Parquet (faster)
+df = pd.read_parquet('data/raw/arabic_only_transactions.parquet')
+
+# Preprocess and split same as English
+df['processed'] = df['transaction_description'].apply(preprocess_text)
+# ... then split
+```
+
+---
+
+##  Dataset Comparison
+
+| Dataset | Location | Records | Size | Purpose | Training Time |
+|---------|----------|---------|------|---------|---------------|
+| HF Full | raw/ | 4.5M | 211 MB | Production | 30-45 min |
+| HF Sample | raw/ | 10K | 470 KB | Development | 10-15 sec |
+| Arabic Only | raw/ | 10K | 580 KB | Multilingual | 10-15 sec |
+| Arabic Mixed | raw/ | 10K | 547 KB | Legacy | 10-15 sec |
+
+---
+
+##  Which Dataset to Use?
+
+### For Development & Learning
+ **Use**: `data/raw/huggingface_sample_10k.csv`  
+- Fast training (~10 seconds)
+- Representative sample
+- Perfect for experiments
+
+### For Production
+ **Use**: `data/raw/huggingface_full_dataset.csv`  
+- Maximum accuracy
+- Full 4.5M records
+- Real-world performance
+
+### For Arabic NLP
+ **Use**: `data/raw/arabic_only_transactions.csv`  
+- Pure Arabic text
+- Egyptian dialect
+- Multilingual research
+
+### For Quick Testing
+ **Use**: `data/processed/arabic_only_*.csv`  
+- Already preprocessed
+- Already split
+- Ready to train
+
+---
+
+##  Data Quality
+
+### All Datasets Include:
+-  No missing values
+-  Balanced category distribution
+-  Consistent schema (4 columns)
+-  UTF-8 encoding
+
+### Quality Checks:
+```python
+import pandas as pd
+
+# Load and check
+df = pd.read_csv('data/raw/huggingface_sample_10k.csv')
+
+print(f"Shape: {df.shape}")
+print(f"Missing: {df.isnull().sum().sum()}")
+print(f"Categories: {df['category'].nunique()}")
+print(f"\nCategory distribution:")
+print(df['category'].value_counts())
+```
+
+---
+
+##  Regenerating Processed Data
+
+If you need to regenerate the processed splits:
 
 ```bash
-# Generate Arabic-only dataset
+# Generate Arabic datasets
 python generate_arabic_only_dataset.py
 ```
 
-Output:
-- `data/arabic_only_transactions.csv`
-- `data/arabic_only_transactions.parquet`
-- `data/arabic_only_train.csv`
-- `data/arabic_only_validation.csv`
-- `data/arabic_only_test.csv`
+This creates:
+- `data/raw/arabic_only_transactions.csv`
+- `data/raw/arabic_only_transactions.parquet`
+- `data/processed/arabic_only_train.csv`
+- `data/processed/arabic_only_validation.csv`
+- `data/processed/arabic_only_test.csv`
 
 ---
 
-## 🎓 Best Practices
+##  Best Practices
 
-1. ✅ **Always preprocess before splitting**
-2. ✅ **Use stratified split** to maintain category balance
-3. ✅ **Set random seed** for reproducibility (42)
-4. ✅ **Never train on test data**
-5. ✅ **Keep validation separate** from test
-6. ✅ **Document preprocessing steps**
-7. ✅ **Apply same TF-IDF transform** to val/test
+1.  **Always start with raw data**
+2.  **Preprocess ALL data before splitting**
+3.  **Use stratified split** for category balance
+4.  **Set random seed** (42) for reproducibility
+5.  **Keep test data separate** - never train on it
+6.  **Use processed splits** only for quick testing
+7.  **Document preprocessing steps**
 
 ---
 
-## 📚 References
+##  Schema Reference
 
-- Hugging Face Dataset: https://huggingface.co/datasets/mitulshah/transaction-categorization
-- Egyptian Arabic patterns: Generated using authentic merchant names and transaction structures
-- Data split ratios: Industry standard 70/15/15
-- Random seed: 42 (for reproducibility)
+All datasets use this schema:
+
+```python
+{
+    'transaction_description': str,  # Transaction text
+    'category': str,                 # One of 10 categories
+    'country': str,                  # Country code
+    'currency': str                  # Currency code
+}
+```
+
+**10 Categories**:
+1. Food & Dining
+2. Transportation
+3. Shopping & Retail
+4. Entertainment & Recreation
+5. Healthcare & Medical
+6. Utilities & Services
+7. Financial Services
+8. Income
+9. Government & Legal
+10. Charity & Donations
+
+---
+
+##  Quick Start Commands
+
+```bash
+# List raw datasets
+ls data/raw/
+
+# List processed datasets
+ls data/processed/
+
+# Check file sizes
+du -sh data/raw/*
+du -sh data/processed/*
+```
+
+---
+
+##  Notes
+
+- **Large File**: `huggingface_full_dataset.csv` is 211 MB (excluded from Git via .gitignore)
+- **Parquet Files**: Use for production (faster, smaller)
+- **Random Seed**: All splits use seed=42
+- **Preprocessing**: Applied before splitting
+- **UTF-8 Encoding**: All files use UTF-8
 
 ---
 
 **Last Updated**: November 12, 2026  
-**Total Datasets**: 4 main datasets + pre-split versions  
-**Total Size**: ~220 MB (with full HF dataset)  
-**Random Seed**: 42 (all splits)  
-**Preprocessing**: Applied BEFORE splitting
+**Structure**: raw/ + processed/  
+**Total Raw Datasets**: 6 files  
+**Total Processed Datasets**: 8 files  
+**Random Seed**: 42

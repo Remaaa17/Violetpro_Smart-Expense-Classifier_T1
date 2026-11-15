@@ -1,5 +1,9 @@
 # Large datasets
 data/huggingface_full_dataset.csv
+data/raw/huggingface_full_dataset.csv
+
+# Exclude src folder
+src/
 
 # Python
 __pycache__/

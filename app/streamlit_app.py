@@ -16,7 +16,7 @@ import os
 # Page config
 st.set_page_config(
     page_title="Smart Expense Classifier",
-    page_icon="💳",
+    page_icon="",
     layout="wide",
     initial_sidebar_state="expanded"
 )
@@ -167,7 +167,7 @@ def main():
     """Main application"""
     
     # Header
-    st.markdown('<div class="main-header">💰 Smart Expense Classifier</div>', unsafe_allow_html=True)
+    st.markdown('<div class="main-header"> Smart Expense Classifier</div>', unsafe_allow_html=True)
     st.markdown('<div class="sub-header">AI-Powered Transaction Categorization</div>', unsafe_allow_html=True)
     
     # Load model
@@ -219,10 +219,10 @@ def main():
     col1, col2 = st.columns([2, 1])
     
     with col1:
-        st.header("🔮 Make a Prediction")
+        st.header(" Make a Prediction")
         
         # Input methods
-        tab1, tab2 = st.tabs(["✍️ Single Prediction", "📄 Batch Prediction"])
+        tab1, tab2 = st.tabs([" Single Prediction", " Batch Prediction"])
         
         with tab1:
             # Text input
@@ -249,7 +249,7 @@ def main():
                     st.rerun()
             
             # Predict button
-            if st.button("🚀 Predict Category", type="primary", use_container_width=True):
+            if st.button(" Predict Category", type="primary", use_container_width=True):
                 if user_input and user_input.strip():
                     with st.spinner("Analyzing transaction..."):
                         result = predict(user_input, model)
@@ -295,13 +295,13 @@ def main():
                             df['predicted_category'] = predictions
                             df['confidence'] = confidences
                             
-                            st.success("✅ Batch prediction complete!")
+                            st.success(" Batch prediction complete!")
                             st.dataframe(df, use_container_width=True)
                             
                             # Download results
                             csv = df.to_csv(index=False).encode('utf-8')
                             st.download_button(
-                                label="📥 Download Results",
+                                label=" Download Results",
                                 data=csv,
                                 file_name="predictions.csv",
                                 mime="text/csv"
@@ -310,7 +310,7 @@ def main():
                     st.error("CSV must contain 'transaction_description' column")
     
     with col2:
-        st.header("📈 Visualization")
+        st.header(" Visualization")
         
         # Show visualization if prediction exists
         if 'last_prediction' in st.session_state:
@@ -332,11 +332,11 @@ def main():
                     st.write(f"{prob:.1%}")
                 st.progress(prob)
         else:
-            st.info("👆 Make a prediction to see visualization")
+            st.info(" Make a prediction to see visualization")
     
     # Full probability chart (below main content)
     if 'last_prediction' in st.session_state:
-        st.header("📊 All Category Probabilities")
+        st.header(" All Category Probabilities")
         result = st.session_state['last_prediction']
         fig_bar = create_confidence_chart(result['all_predictions'])
         st.plotly_chart(fig_bar, use_container_width=True)

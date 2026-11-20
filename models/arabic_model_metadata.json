@@ -1,0 +1,28 @@
+{
+  "model_name": "Logistic Regression",
+  "test_accuracy": 0.966,
+  "test_precision": 0.9682673078477863,
+  "test_recall": 0.966,
+  "test_f1": 0.9663916285679687,
+  "best_params": {
+    "C": 1,
+    "penalty": "l2",
+    "solver": "lbfgs"
+  },
+  "categories": [
+    "Charity & Donations",
+    "Entertainment & Recreation",
+    "Financial Services",
+    "Food & Dining",
+    "Government & Legal",
+    "Healthcare & Medical",
+    "Income",
+    "Shopping & Retail",
+    "Transportation",
+    "Utilities & Services"
+  ],
+  "training_samples": 8000,
+  "test_samples": 2000,
+  "vocabulary_size": 1425,
+  "created_date": "2026-11-16 14:01:39"
+}

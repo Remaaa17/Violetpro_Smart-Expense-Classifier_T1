@@ -1,0 +1,29 @@
+{
+  "model_name": "Arabic Balanced Classifier with Diacritics",
+  "dataset": "arabic_balanced_diacritics_clean.csv",
+  "total_samples": 10000,
+  "train_samples": 7004,
+  "val_samples": 1496,
+  "test_samples": 1500,
+  "test_accuracy": 1.0,
+  "test_f1": 1.0,
+  "num_categories": 10,
+  "categories": [
+    "Charity & Donations",
+    "Entertainment & Recreation",
+    "Financial Services",
+    "Food & Dining",
+    "Government & Legal",
+    "Healthcare & Medical",
+    "Income",
+    "Shopping & Retail",
+    "Transportation",
+    "Utilities & Services"
+  ],
+  "best_params": {
+    "C": 0.1,
+    "penalty": "l2",
+    "solver": "lbfgs"
+  },
+  "training_date": "2026-11-16 15:23:21"
+}

@@ -5,6 +5,7 @@ This directory contains all transaction datasets for the Smart Expense Classifie
 **Structure**:
 - `raw/` - Original, unprocessed datasets
 - `processed/` - Preprocessed and split datasets (train/val/test)
+- `scripts/` - **Dataset generation scripts** (see below)
 
 ---
 
@@ -30,8 +31,45 @@ data/
     arabic_transactions_noisy_2pct.csv
     arabic_transactions_noisy_5pct.csv
 
+ scripts/                      # Dataset generation scripts
+    generate_main_dataset.py          (English 100K records)
+    generate_arabic_only_dataset.py   (Arabic 10K records)
+    README.md                         (Script documentation)
+
  README.md                     # This file
 ```
+
+---
+
+## 🔧 Dataset Generation Scripts
+
+Located in `data/scripts/`, these Python scripts generate synthetic transaction datasets:
+
+### 1. **`generate_main_dataset.py`** - Main English Dataset
+- Generates **100,000 transaction records**
+- 10 categories, multiple countries/currencies
+- Outputs: `data/raw/main_transactions.csv` + train/val/test splits
+- Runtime: ~2-3 minutes
+
+```bash
+cd data/scripts
+python generate_main_dataset.py
+```
+
+### 2. **`generate_arabic_only_dataset.py`** - Arabic Dataset
+- Generates **10,000 Arabic-only transaction records**
+- MSA + Egyptian Colloquial Arabic
+- Outputs: `data/arabic_only_transactions.csv` + splits
+- Runtime: ~30-40 seconds
+
+```bash
+cd data/scripts
+python generate_arabic_only_dataset.py
+```
+
+**📖 Full Documentation**: See `data/scripts/README.md` for detailed script documentation
+
+---
 
 ---
 

@@ -1,0 +1,23 @@
+{
+  "model_name": "Smart Expense Classifier",
+  "version": "1.0.0",
+  "categories": [
+    "Charity & Donations",
+    "Entertainment & Recreation",
+    "Financial Services",
+    "Food & Dining",
+    "Government & Legal",
+    "Healthcare & Medical",
+    "Income",
+    "Shopping & Retail",
+    "Transportation",
+    "Utilities & Services"
+  ],
+  "accuracy": 0.9752,
+  "language": "English",
+  "preprocessing": {
+    "lowercase": true,
+    "remove_punctuation": true,
+    "remove_numbers": true
+  }
+}

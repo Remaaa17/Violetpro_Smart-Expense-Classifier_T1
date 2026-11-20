@@ -14,7 +14,7 @@ import plotly.graph_objects as go
 # Page configuration
 st.set_page_config(
     page_title="Smart Expense Classifier",
-    page_icon="💳",
+    page_icon="",
     layout="wide"
 )
 
@@ -78,7 +78,7 @@ def predict_transaction(text, model):
 
 def main():
     # Header
-    st.title("💳 Smart Expense Classifier")
+    st.title(" Smart Expense Classifier")
     st.markdown("### AI-Powered Transaction Categorization")
     st.markdown("---")
     
@@ -121,7 +121,7 @@ Tax payment
     col1, col2 = st.columns([2, 1])
     
     with col1:
-        st.header("🔮 Make a Prediction")
+        st.header(" Make a Prediction")
         
         # Input
         user_input = st.text_input(
@@ -148,7 +148,7 @@ Tax payment
                 st.rerun()
         
         # Predict button
-        if st.button("🚀 Predict Category", type="primary", use_container_width=True):
+        if st.button(" Predict Category", type="primary", use_container_width=True):
             if user_input and user_input.strip():
                 with st.spinner("Analyzing transaction..."):
                     result = predict_transaction(user_input, model)
@@ -185,7 +185,7 @@ Tax payment
                 st.progress(float(prob))
     
     with col2:
-        st.header("📊 Visualization")
+        st.header(" Visualization")
         
         if 'last_result' in st.session_state:
             result = st.session_state['last_result']
@@ -242,7 +242,7 @@ Tax payment
     
     # Batch prediction
     st.markdown("---")
-    st.header("📄 Batch Prediction")
+    st.header(" Batch Prediction")
     
     uploaded_file = st.file_uploader(
         "Upload a CSV file with 'transaction_description' column",
